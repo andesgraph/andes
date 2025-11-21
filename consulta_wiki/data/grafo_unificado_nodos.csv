@@ -1,0 +1,229 @@
+﻿id,label,degree
+Q419,Perú,121
+Q2065736,bien cultural,92
+Q1920602,Provincia de Acomayo,18
+Q1920520,Provincia de Quispicanchi,18
+Q1132101,Provincia de Cuzco,17
+Q2723621,Distrito de Cusco,16
+Q1920613,Provincia de Paruro,12
+Q200538,fiesta,10
+Q2942242,Catedral del Cusco,9
+Q1948019,Provincia de Calca,9
+Q676203,Machu Picchu,8
+Q2408955,Festividad de Qoyllorit'i,7
+Q1920482,Provincia de Anta,7
+Q951287,Provincia de Canchis,7
+Q3001637,Convento de Santo Domingo,6
+Q5221455,Danza de las tijeras,6
+Q60643381,Fiesta de la Virgen del Carmen de Paucartambo,6
+Q1920500,Provincia de Canas,6
+Q42826974,Calles y plazas en la zona monumental del Cuzco,5
+Q5799139,Danza de Negritos y Las Pallitas,5
+Q2718491,Distrito de Acomayo,5
+Q3313067,Distrito de Oropesa,5
+Q5447343,Fiestas Patrias en el Perú,5
+Q16618903,Piedra de los doce ángulos,5
+Q1360456,Tambomachay,5
+Q2003624,Tipón,5
+Q178561,batalla,5
+Q26905493,iglesia de San Sebastián,5
+Q10974742,iglesia de la Compañía,5
+Q839954,yacimiento arqueológico,5
+Q42831947,Antiguo puente sobre el rio Vilcanota (restos),4
+Q2338093,Batalla de Jaquijahuana,4
+Q5738212,Cabildo del Cuzco,4
+Q42827174,Calle de Recoleta,4
+Q42827108,Calle de acceso a Mesa Redonda,4
+Q42827242,Calle del Retiro (Qquenqo Mayo),4
+Q42833523,Capilla San Antonio de Padua,4
+Q42833635,Capilla Santa Rosa de Lima de Choquepata,4
+Q42833695,Capilla Virgen Inmaculada Concepción,4
+Q42831409,Capilla de Canincunca,4
+Q42833188,"Capilla de Kuchuwasi, torre exenta, atrio frontal con barda perimetral y cementerio con barda perimetral",4
+Q42833307,Capilla de Markjo,4
+Q42831821,Capilla de Quiquijana,4
+Q42825898,Capilla de Santa Barbara de Acomayo,4
+Q42833413,Capilla de Tayankani,4
+Q42833245,Capilla de la comunidad campesina de Pircca,4
+Q42834109,Casa Hacienda Anderes,4
+Q42831659,Casa Hacienda de Callapucyo,4
+Q42831708,Casa Hacienda del Marques de Valle Umbroso,4
+Q42833816,Casa cabildo Zurite,4
+Q42833994,Casa de José Gabriel Condorcanqui,4
+Q42826830,Casa quinta de Manzanares,4
+Q42834323,"Conj. religioso conformado por el templo San Juan Bautista de Coporaque, la capilla San Miguel Arcangel, la torre exenta, la barda perimetral, el atrio lateral con frente hacia la plaza y atrio frontal",4
+Q5582862,Cuzco,4
+Q205057,Departamento de Cusco,4
+Q591626,Distrito de Acos,4
+Q3312532,Distrito de Quiquijana,4
+Q42834451,Ex casa hacienda de Huallhua y capilla Virgen del Rosario,4
+Q42832721,Huch'uy Qusqu,4
+Q42834609,Iglesia Virgen de las Nieves de Sangarará,4
+Q42825969,Iglesia de Belén de Acomayo,4
+Q42826285,Iglesia de Calca,4
+Q42826647,Iglesia de Checacupe,4
+Q42826529,Iglesia de Combapata,4
+Q42831466,Iglesia de Huaro,4
+Q42826347,Iglesia de Langui,4
+Q42826703,Iglesia de Marangani,4
+Q42831611,Iglesia de Oropesa,4
+Q42831120,Iglesia de Paccaritambo,4
+Q42826401,Iglesia de Pampamarca,4
+Q42831169,Iglesia de San Esteban de Yaurisque,4
+Q42830962,Iglesia de San Francisco de Asís de la comunidad de Apachacco,4
+Q42831358,Iglesia de San Pedro apóstol de Andahuaylillas,4
+Q42826912,Iglesia de Tinta,4
+Q42831993,Iglesia de Urcos,4
+Q42826763,Iglesia matriz de Sicuani,4
+Q42831023,Iglesia parroquial de Huanoquite,4
+Q42826225,Iglesia parroquial de Mosoc Llacta,4
+Q42831882,Iglesia parroquial de Quiquijana,4
+Q42826054,Iglesia parroquial de San Agustín de Pomacanchi,4
+Q42834561,Iglesia patrón San Salvador del Mundo,4
+Q42827558,"Iglesia, hospital y convento de la Almudena del Cuzco",4
+Q42827039,Lucre calle,4
+Q42826110,Molino de San Cristóbal de Acomayo o molino de los Incas,4
+Q42826170,Molino de la creación o Uyfita molina,4
+Q42827372,Plaza de Belén del Cuzco,4
+Q42827429,Plaza de Santiago del Cuzco,4
+Q42827318,Plaza de la Almudena del Cuzco,4
+Q42831073,Plaza mayor de Paccaritambo,4
+Q42831764,Plaza principal y calles del pueblo de Quiquijana,4
+Q42827490,Plazuela de la Recoleta del Cuzco,4
+Q1947973,Provincia de Espinar,4
+Q2390374,Puca Pucara,4
+Q42826457,Puente de Qeswachaca de Quehue,4
+Q42826588,Puente sobre el río Salcca,4
+Q42835593,"Templo Inmaculada Concepción, torre exenta, arco de acceso al atrio, cruz atrial, atrio frontal y areas libres laterales y posterior",4
+Q42835698,Templo Nuestra Señora Asunta de Pampacucho,4
+Q42835807,"Templo San Cosme y San Damian, atrio frontal y laterales, arco frontal y cerco perimetrico",4
+Q42835842,Templo San Francisco de Asis de Huayqui y torre exenta ubicada fuera de la plaza,4
+Q42835919,Templo San Juan Bautista de Ccatcca y torre campanario exenta,4
+Q42835962,"Templo San Juan Bautista de Pomacanchi, torre exenta con barda y arco de acceso adyacentes, atrio frontal y lateral",4
+Q42836000,Templo San Martín obispo de Tours,4
+Q42836071,Templo San Miguel de Acos,4
+Q42836103,Templo San Pablo apostol de Ocongate,4
+Q42836203,"Templo Santa Ana de Yauri, conjunto religioso conformado por templo, y torre exenta",4
+Q42836241,Templo Santa Lucia de Pomacanchi,4
+Q42836273,Templo Santa Maria Magdalena de Taray,4
+Q42836337,Templo Santiago apostol de Corma,4
+Q42836407,Templo Santiago apostol de Lamay,4
+Q42836373,Templo Santiago apóstol de Kuñotambo,4
+Q42836531,Templo Santo Domingo de Sanka,4
+Q42836500,Templo Santísima Trinidad de Misca,4
+Q42836586,"Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal",4
+Q42834849,Templo de Antapallpa,4
+Q42834907,Templo de Hanansaya,4
+Q42834961,Templo de Huayllacocha,4
+Q42835013,Templo de Hurinsaya,4
+Q42835067,Templo de Nuestra Señora de la Asunción,4
+Q42835128,Templo de San Francisco de Asis de Marcapata (incluye el atrio cercado y la torre exenta),4
+Q42835232,Templo de San Juan Bautista de Colcha,4
+Q42835280,Templo de San Lorenzo,4
+Q42835334,Templo de San Nicolas de Bari,4
+Q42835444,"Templo de Santa Lucia de Pichigua, atrio frontal y espacios laterales y posterior que lo rodean",4
+Q42835523,Templo de Tungasuca,4
+Q42835562,Templo del Señor de la Exaltación,4
+Q42835766,"Templo patrón San Jerónimo, cruz atrial, atrio frontal y áreas libres laterales y posterior",4
+Q15949935,Waqrapukara,4
+Q4872293,batalla de Sangarará,4
+Q42832097,iglesia de la Natividad de la Virgen,4
+Q3312249,Distrito de Colcha,3
+Q3312913,Distrito de Combapata,3
+Q3312608,Distrito de Paccaritambo,3
+Q967582,Distrito de Pomacanchi,3
+Q2718526,Distrito de Rondocan,3
+Q3313092,Distrito de San Salvador,3
+Q3825754,Distrito de Zurite,3
+Q99317470,Día de la Enfermería Peruana,3
+Q99211395,Día de la Medicina Peruana,3
+Q99209774,Día del Cajón Peruano,3
+Q110319947,Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad,3
+Q10858554,Señor de los Temblores,3
+Q42836561,Templo Santo Tomas de Aquino,3
+Q112898263,WikiProyecto patrimonio cultural inmaterial,3
+Q9172888,batalla de Combapata,3
+Q5055825,batalla de Sacsayhuaman,3
+Q9172756,batalla de Urcos,3
+Q3010205,celebración,3
+Q16970,iglesia,3
+Q636771,Conquista del Imperio Inca,2
+Q3312865,Distrito de Accha,2
+Q3825462,Distrito de Anta,2
+Q3312974,Distrito de Calca,2
+Q3315216,Distrito de Coporaque,2
+Q3313115,Distrito de Huaro,2
+Q3313271,Distrito de Huarocondo,2
+Q3312892,Distrito de Lares,2
+Q3312165,Distrito de Ocongate,2
+Q3312971,Distrito de Quehue,2
+Q2608412,Distrito de Sicuani,2
+Q118113506,Día Internacional de los Trabajadores en Perú 2023,2
+Q30914346,Festividad PerúBA,2
+Q5861783,Fiesta internacional de teatro en calles abiertas,2
+Q131344185,Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua),2
+Q42827844,Iglesia de Loreto del Cuzco,2
+Q3804600,Iuma,2
+Q118395687,Raymi Llacta,2
+Q828336,Saqsaywaman,2
+Q3312517,Túpac Amaru,2
+Q570116,atracción turística,2
+Q1806552,rebelión de Túpac Amaru II,2
+Q2731,16 de julio,1
+Q2729,17 de julio,1
+Q2730,18 de julio,1
+Q2718,28 de julio,1
+Q2717,29 de julio,1
+Q397990,Aguas Calientes,1
+Q162691,Asunción de María,1
+Q26764442,Chinchero,1
+Q7171186,Danzas del Perú,1
+Q938103,Distrito de Acopía,1
+Q2846059,Distrito de Andahuaylillas,1
+Q3312947,Distrito de Ccarhuayo,1
+Q3312493,Distrito de Ccatca,1
+Q3312597,Distrito de Checacupe,1
+Q1073654,Distrito de Chinchero,1
+Q3312396,Distrito de Huanoquite,1
+Q3312884,Distrito de Lamay,1
+Q3312918,Distrito de Langui,1
+Q3312558,Distrito de Maranganí,1
+Q3312576,Distrito de Marcapata,1
+Q2488809,Distrito de Mosoc Llacta,1
+Q2893883,Distrito de Omacha,1
+Q3312952,Distrito de Pampamarca,1
+Q921913,Distrito de Paruro,1
+Q3321976,Distrito de Pichigua,1
+Q3322708,Distrito de San Sebastián,1
+Q2718575,Distrito de Sangarará,1
+Q3313110,Distrito de Taray,1
+Q3322654,Distrito de Tinta,1
+Q934601,Distrito de Urcos,1
+Q3314065,Distrito de Yauri,1
+Q3312939,Distrito de Yaurisque,1
+Q25755314,Gran Cruz de la Orden El Sol del Perú,1
+Q5884503,Gran Rebelión de Encomenderos,1
+Q68478,Guerra de Independencia de Perú,1
+Q5892811,Hatun Rumiyoc,1
+Q54800990,Museo Histórico Regional de Cusco,1
+Q84036549,Patrimonio Cultural Inmaterial de la Humanidad,1
+Q1771879,Provincia de Urubamba,1
+Q7417854,Sangarará,1
+Q3331815,Santuario histórico de Machu Picchu,1
+Q2989619,Urcos,1
+Q1065053,Virgen del Carmen,1
+Q130719847,advocacion cristífera,1
+Q1341387,balneario,1
+Q120560,basílica menor,1
+Q618123,característica geográfica,1
+Q2977,catedral,1
+Q15661340,ciudad antigua,1
+Q1128397,convento,1
+Q11639,danza,1
+Q17176998,danza amerindia,1
+Q201022,danza folclórica,1
+Q375011,festividad religiosa,1
+Q56395672,iglesia jesuítica,1
+Q22731,piedra,1
+Q3305213,pintura,1
+Q106314740,vías públicas en un área,1

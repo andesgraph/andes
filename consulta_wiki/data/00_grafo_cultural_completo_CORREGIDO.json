@@ -1,0 +1,1028 @@
+{
+  "nodos": {
+    "Q2408955": {
+      "id": "Q2408955",
+      "label": "Festividad de Qoyllorit'i",
+      "description": "",
+      "tipo": "",
+      "categorias": [
+        "festividades",
+        "relaciones",
+        "núcleo"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P10221": [
+          {
+            "valor": "RL/00567",
+            "valor_label": "RL/00567"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q205057",
+            "valor_label": "Departamento de Cusco"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q205057",
+            "valor_label": "Departamento de Cusco"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P1617": [
+          {
+            "valor": "b9c12ae2-b9fa-4f9f-a258-c8b53595b85f",
+            "valor_label": "b9c12ae2-b9fa-4f9f-a258-c8b53595b85f"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P166": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q25755314",
+            "valor_label": "Gran Cruz de la Orden El Sol del Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P18": [
+          {
+            "valor": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20R%27Iti%20Cross%201.jpg",
+            "valor_label": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20R%27Iti%20Cross%201.jpg"
+          },
+          {
+            "valor": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20R%27Iti%20panoramic%20overview.jpg",
+            "valor_label": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20R%27Iti%20panoramic%20overview.jpg"
+          },
+          {
+            "valor": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20R%27Iti%20Shrine%20by%20night.jpg",
+            "valor_label": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20R%27Iti%20Shrine%20by%20night.jpg"
+          },
+          {
+            "valor": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20Rit%27i%20young%20dancer.jpg",
+            "valor_label": "http://commons.wikimedia.org/wiki/Special:FilePath/Qoyllur%20Rit%27i%20young%20dancer.jpg"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P3259": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q110319947",
+            "valor_label": "Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P373": [
+          {
+            "valor": "Quyllurit'i",
+            "valor_label": "Quyllurit'i"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P495": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P6104": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q112898263",
+            "valor_label": "WikiProyecto patrimonio cultural inmaterial"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P646": [
+          {
+            "valor": "/m/03cj2sb",
+            "valor_label": "/m/03cj2sb"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P973": [
+          {
+            "valor": "https://ich.unesco.org/en/RL/00567",
+            "valor_label": "https://ich.unesco.org/en/RL/00567"
+          },
+          {
+            "valor": "https://ich.unesco.org/es/RL/00567",
+            "valor_label": "https://ich.unesco.org/es/RL/00567"
+          },
+          {
+            "valor": "https://ich.unesco.org/fr/RL/00567",
+            "valor_label": "https://ich.unesco.org/fr/RL/00567"
+          }
+        ]
+      }
+    },
+    "Q60643381": {
+      "id": "Q60643381",
+      "label": "Fiesta de la Virgen del Carmen de Paucartambo",
+      "description": "",
+      "tipo": "",
+      "categorias": [
+        "festividades",
+        "relaciones",
+        "núcleo"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P138": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1065053",
+            "valor_label": "Virgen del Carmen"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q1065053",
+            "valor_label": "Virgen del Carmen"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P18": [
+          {
+            "valor": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20del%20Carmen%20-%20Paucartambo%20Peru.jpg",
+            "valor_label": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20del%20Carmen%20-%20Paucartambo%20Peru.jpg"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P2671": [
+          {
+            "valor": "/g/11fjn2p814",
+            "valor_label": "/g/11fjn2p814"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q375011",
+            "valor_label": "festividad religiosa"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q375011",
+            "valor_label": "festividad religiosa"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P373": [
+          {
+            "valor": "Virgen del Carmen de Paucartambo",
+            "valor_label": "Virgen del Carmen de Paucartambo"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P837": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2729",
+            "valor_label": "17 de julio"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q2730",
+            "valor_label": "18 de julio"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q2731",
+            "valor_label": "16 de julio"
+          }
+        ]
+      }
+    },
+    "Q42833695": {
+      "id": "Q42833695",
+      "label": "Capilla Virgen Inmaculada Concepción",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920482",
+            "valor_label": "Provincia de Anta"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q3825462",
+            "valor_label": "Distrito de Anta"
+          }
+        ]
+      }
+    },
+    "Q42834609": {
+      "id": "Q42834609",
+      "label": "Iglesia Virgen de las Nieves de Sangarará",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920602",
+            "valor_label": "Provincia de Acomayo"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2718575",
+            "valor_label": "Distrito de Sangarará"
+          }
+        ]
+      }
+    },
+    "Q42835067": {
+      "id": "Q42835067",
+      "label": "Templo de Nuestra Señora de la Asunción",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920602",
+            "valor_label": "Provincia de Acomayo"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2718526",
+            "valor_label": "Distrito de Rondocan"
+          }
+        ]
+      }
+    },
+    "Q42835562": {
+      "id": "Q42835562",
+      "label": "Templo del Señor de la Exaltación",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920500",
+            "valor_label": "Provincia de Canas"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q3312971",
+            "valor_label": "Distrito de Quehue"
+          }
+        ]
+      }
+    },
+    "Q42836531": {
+      "id": "Q42836531",
+      "label": "Templo Santo Domingo de Sanka",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920602",
+            "valor_label": "Provincia de Acomayo"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2718526",
+            "valor_label": "Distrito de Rondocan"
+          }
+        ]
+      }
+    },
+    "Q42836561": {
+      "id": "Q42836561",
+      "label": "Templo Santo Tomas de Aquino",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920602",
+            "valor_label": "Provincia de Acomayo"
+          }
+        ]
+      }
+    },
+    "Q3001637": {
+      "id": "Q3001637",
+      "label": "Convento de Santo Domingo",
+      "description": "convento en Cusco, Perú",
+      "tipo": "iglesia",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q16970",
+            "valor_label": "iglesia"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q16970",
+            "valor_label": "iglesia"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q1128397",
+            "valor_label": "convento"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q1128397",
+            "valor_label": "convento"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1132101",
+            "valor_label": "Provincia de Cuzco"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q1132101",
+            "valor_label": "Provincia de Cuzco"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q5582862",
+            "valor_label": "Cuzco"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q5582862",
+            "valor_label": "Cuzco"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2723621",
+            "valor_label": "Distrito de Cusco"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q2723621",
+            "valor_label": "Distrito de Cusco"
+          }
+        ]
+      }
+    },
+    "Q10858554": {
+      "id": "Q10858554",
+      "label": "Señor de los Temblores",
+      "description": "advocación de Cristo en Cusco, Perú",
+      "tipo": "advocacion cristífera",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q130719847",
+            "valor_label": "advocacion cristífera"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2942242",
+            "valor_label": "Catedral del Cusco"
+          }
+        ]
+      }
+    },
+    "Q42835698": {
+      "id": "Q42835698",
+      "label": "Templo Nuestra Señora Asunta de Pampacucho",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1920613",
+            "valor_label": "Provincia de Paruro"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q3312249",
+            "valor_label": "Distrito de Colcha"
+          }
+        ]
+      }
+    },
+    "Q42836586": {
+      "id": "Q42836586",
+      "label": "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1948019",
+            "valor_label": "Provincia de Calca"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q3312892",
+            "valor_label": "Distrito de Lares"
+          }
+        ]
+      }
+    },
+    "Q131344185": {
+      "id": "Q131344185",
+      "label": "Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)",
+      "description": "",
+      "tipo": "pintura",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q3305213",
+            "valor_label": "pintura"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q54800990",
+            "valor_label": "Museo Histórico Regional de Cusco"
+          }
+        ]
+      }
+    },
+    "Q42832097": {
+      "id": "Q42832097",
+      "label": "iglesia de la Natividad de la Virgen",
+      "description": "iglesia en Chinchero",
+      "tipo": "iglesia",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q16970",
+            "valor_label": "iglesia"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1073654",
+            "valor_label": "Distrito de Chinchero"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q26764442",
+            "valor_label": "Chinchero"
+          }
+        ]
+      }
+    },
+    "Q42834451": {
+      "id": "Q42834451",
+      "label": "Ex casa hacienda de Huallhua y capilla Virgen del Rosario",
+      "description": "cultural heritage site in Peru",
+      "tipo": "bien cultural",
+      "categorias": [
+        "geografía"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q2065736",
+            "valor_label": "bien cultural"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P131": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q1948019",
+            "valor_label": "Provincia de Calca"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P276": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q3313092",
+            "valor_label": "Distrito de San Salvador"
+          }
+        ]
+      }
+    },
+    "Q3804600": {
+      "id": "Q3804600",
+      "label": "Iuma",
+      "description": "Peruvian carnival party",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ]
+      }
+    },
+    "Q30914346": {
+      "id": "Q30914346",
+      "label": "Festividad PerúBA",
+      "description": "",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ]
+      }
+    },
+    "Q99209774": {
+      "id": "Q99209774",
+      "label": "Día del Cajón Peruano",
+      "description": "",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q3010205",
+            "valor_label": "celebración"
+          }
+        ]
+      }
+    },
+    "Q99211395": {
+      "id": "Q99211395",
+      "label": "Día de la Medicina Peruana",
+      "description": "",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q3010205",
+            "valor_label": "celebración"
+          }
+        ]
+      }
+    },
+    "Q99317470": {
+      "id": "Q99317470",
+      "label": "Día de la Enfermería Peruana",
+      "description": "",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          },
+          {
+            "valor": "http://www.wikidata.org/entity/Q3010205",
+            "valor_label": "celebración"
+          }
+        ]
+      }
+    },
+    "Q118113506": {
+      "id": "Q118113506",
+      "label": "Día Internacional de los Trabajadores en Perú 2023",
+      "description": "celebraciones del Día Internacional de los Trabajadores en Perú en el 2023",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ]
+      }
+    },
+    "Q118395687": {
+      "id": "Q118395687",
+      "label": "Raymi Llacta",
+      "description": "festividad peruana",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ]
+      }
+    },
+    "Q5447343": {
+      "id": "Q5447343",
+      "label": "Fiestas Patrias en el Perú",
+      "description": "celebraciones anuales desarrolladas en Perú como conmemoración a su inicio de vida soberana",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades",
+        "relaciones"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P138": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q68478",
+            "valor_label": "Guerra de Independencia de Perú"
+          }
+        ]
+      }
+    },
+    "Q5861783": {
+      "id": "Q5861783",
+      "label": "Fiesta internacional de teatro en calles abiertas",
+      "description": "",
+      "tipo": "fiesta",
+      "categorias": [
+        "festividades"
+      ],
+      "propiedades": {
+        "http://www.wikidata.org/prop/direct/P17": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q419",
+            "valor_label": "Perú"
+          }
+        ],
+        "http://www.wikidata.org/prop/direct/P31": [
+          {
+            "valor": "http://www.wikidata.org/entity/Q200538",
+            "valor_label": "fiesta"
+          }
+        ]
+      }
+    },
+    "Q5221455": {
+      "id": "Q5221455",
+      "label": "Danza de las tijeras",
+      "description": "",
+      "tipo": "",
+      "categorias": [
+        "relaciones"
+      ],
+      "propiedades": {}
+    },
+    "Q5799139": {
+      "id": "Q5799139",
+      "label": "Danza de Negritos y Las Pallitas",
+      "description": "",
+      "tipo": "",
+      "categorias": [
+        "relaciones"
+      ],
+      "propiedades": {}
+    }
+  },
+  "enlaces": [
+    {
+      "origen": "Q2408955",
+      "destino": "Q205057",
+      "tipo": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "origen": "Q2408955",
+      "destino": "Q25755314",
+      "tipo": "http://www.wikidata.org/prop/direct/P166"
+    },
+    {
+      "origen": "Q2408955",
+      "destino": "Q419",
+      "tipo": "http://www.wikidata.org/prop/direct/P495"
+    },
+    {
+      "origen": "Q2408955",
+      "destino": "Q110319947",
+      "tipo": "http://www.wikidata.org/prop/direct/P3259"
+    },
+    {
+      "origen": "Q2408955",
+      "destino": "Q112898263",
+      "tipo": "http://www.wikidata.org/prop/direct/P6104"
+    },
+    {
+      "origen": "Q5221455",
+      "destino": "Q201022",
+      "tipo": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "origen": "Q5221455",
+      "destino": "Q7171186",
+      "tipo": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "origen": "Q5221455",
+      "destino": "Q17176998",
+      "tipo": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "origen": "Q5221455",
+      "destino": "Q419",
+      "tipo": "http://www.wikidata.org/prop/direct/P495"
+    },
+    {
+      "origen": "Q5221455",
+      "destino": "Q110319947",
+      "tipo": "http://www.wikidata.org/prop/direct/P3259"
+    },
+    {
+      "origen": "Q5221455",
+      "destino": "Q112898263",
+      "tipo": "http://www.wikidata.org/prop/direct/P6104"
+    },
+    {
+      "origen": "Q5447343",
+      "destino": "Q68478",
+      "tipo": "http://www.wikidata.org/prop/direct/P138"
+    },
+    {
+      "origen": "Q5447343",
+      "destino": "Q2717",
+      "tipo": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "origen": "Q5447343",
+      "destino": "Q2718",
+      "tipo": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "origen": "Q5799139",
+      "destino": "Q11639",
+      "tipo": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "origen": "Q5799139",
+      "destino": "Q419",
+      "tipo": "http://www.wikidata.org/prop/direct/P495"
+    },
+    {
+      "origen": "Q5799139",
+      "destino": "Q84036549",
+      "tipo": "http://www.wikidata.org/prop/direct/P1435"
+    },
+    {
+      "origen": "Q5799139",
+      "destino": "Q110319947",
+      "tipo": "http://www.wikidata.org/prop/direct/P3259"
+    },
+    {
+      "origen": "Q5799139",
+      "destino": "Q112898263",
+      "tipo": "http://www.wikidata.org/prop/direct/P6104"
+    },
+    {
+      "origen": "Q60643381",
+      "destino": "Q1065053",
+      "tipo": "http://www.wikidata.org/prop/direct/P138"
+    },
+    {
+      "origen": "Q60643381",
+      "destino": "Q2729",
+      "tipo": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "origen": "Q60643381",
+      "destino": "Q2730",
+      "tipo": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "origen": "Q60643381",
+      "destino": "Q2731",
+      "tipo": "http://www.wikidata.org/prop/direct/P837"
+    }
+  ]
+}

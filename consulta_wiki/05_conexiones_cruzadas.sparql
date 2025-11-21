@@ -1,0 +1,23 @@
+# CONSULTA 05: Red de conexiones entre entidades culturales peruanas
+SELECT ?item1 ?item1Label ?propiedad ?propiedadLabel ?item2 ?item2Label {
+  # Usar los QIDs de las entidades que hemos encontrado en consultas anteriores
+  VALUES ?item1 {
+    wd:Q2408955    # Qoyllur Rit'i
+    wd:Q60643381   # Virgen del Carmen de Paucartambo
+    wd:Q5799139    # Danza de Negritos y Las Pallitas (UNESCO)
+    wd:Q5221455    # Danza de las tijeras (UNESCO)
+    wd:Q5447343    # Fiestas Patrias
+    wd:Q118395687  # Raymi Llacta
+  }
+  
+  # Buscar conexiones entre estas entidades
+  ?item1 ?propiedad ?item2.
+  
+  # Filtrar para propiedades de relación (no metadatos)
+  FILTER(STRSTARTS(STR(?propiedad), "http://www.wikidata.org/prop/direct/"))
+  FILTER(?propiedad NOT IN (wdt:P31, wdt:P17, wdt:P373, wdt:P910))
+  FILTER(STRSTARTS(STR(?item2), "http://www.wikidata.org/entity/Q"))
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en,[AUTO_LANGUAGE]". }
+}
+LIMIT 100

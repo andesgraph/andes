@@ -1,0 +1,23 @@
+
+# Profundización de dimensión Identidad
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?nodoOrigen ?propiedad ?nodoDestino ?nodoOrigenLabel ?nodoDestinoLabel ?propiedadLabel
+WHERE {
+  VALUES ?propiedad { wdt:P31 wdt:P17 wdt:P495 wdt:P361 wdt:P527 }
+  
+  ?nodoOrigen ?propiedad ?nodoDestino.
+  
+  # Filtros de calidad
+  FILTER(STRSTARTS(STR(?nodoOrigen), "http://www.wikidata.org/entity/Q"))
+  FILTER(STRSTARTS(STR(?nodoDestino), "http://www.wikidata.org/entity/Q"))
+  FILTER(?nodoDestino != ?nodoOrigen)
+  
+  # Labels en español
+  OPTIONAL { ?nodoOrigen rdfs:label ?nodoOrigenLabel. FILTER(LANG(?nodoOrigenLabel) = "es") }
+  OPTIONAL { ?nodoDestino rdfs:label ?nodoDestinoLabel. FILTER(LANG(?nodoDestinoLabel) = "es") }
+  OPTIONAL { ?propiedad rdfs:label ?propiedadLabel. FILTER(LANG(?propiedadLabel) = "es") }
+}
+LIMIT 300

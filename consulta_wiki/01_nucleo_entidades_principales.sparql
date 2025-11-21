@@ -1,0 +1,7 @@
+SELECT ?festividad ?festividadLabel ?propiedad ?propiedadLabel ?valor ?valorLabel {
+  VALUES ?festividad { wd:Q2408955 wd:Q60643381 } # Qoyllur Rit'i y Virgen del Carmen de Paucartambo
+  ?festividad ?propiedad ?valor .
+  FILTER(STRSTARTS(STR(?propiedad), "http://www.wikidata.org/prop/direct/"))
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en,qu,ay,[AUTO_LANGUAGE]". }
+}
+ORDER BY ?festividadLabel ?propiedadLabel

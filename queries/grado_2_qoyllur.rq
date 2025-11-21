@@ -1,0 +1,61 @@
+# ==================================
+# PROYECTO: ANÁLISIS QOYYLUR RIT'I
+# CONSULTA: Grado 2 - Conexiones expandidas
+# AUTOR: javier vera zúñiga
+# FECHA: $(function(){ return new Date().toLocaleDateString(); })()
+# DESCRIPCIÓN: Conexiones de segundo nivel desde entidades relacionadas
+# DEPENDE: Ejecutar después de 01_grado_1_conexiones_directas.rq
+# ==================================
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+# --- VARIABLES PRINCIPALES ---
+SELECT ?dimension ?propiedadGrado1 ?entidadIntermedia ?propiedadGrado2 ?entidadGrado2
+
+# --- LÓGICA PRINCIPAL ---
+WHERE {
+  # Usar las mismas propiedades del Grado 1 para consistencia
+  VALUES (?dimension ?propiedadGrado1) {
+    ("Identidad" wdt:P31)
+    ("Identidad" wdt:P17)
+    ("Identidad" wdt:P495)
+    ("Geográfica" wdt:P131)
+    ("Geográfica" wdt:P276)
+    ("Geográfica" wdt:P625)
+    ("Temporal" wdt:P580)
+    ("Temporal" wdt:P582)
+    ("Temporal" wdt:P585)
+    ("Cultural" wdt:P135)
+    ("Cultural" wdt:P361)
+    ("Cultural" wdt:P921)
+    ("Digital" wdt:P18)
+    ("Digital" wdt:P373)
+    ("Digital" wdt:P1617)
+    ("Social" wdt:P112)
+    ("Social" wdt:P710)
+    ("Patrimonio" wdt:P1435)
+    ("Patrimonio" wdt:P6104)
+  }
+  
+  # --- GRADO 1 ---
+  # Qoyllur Rit'i -> Entidad Intermedia
+  wd:Q2408955 ?propiedadGrado1 ?entidadIntermedia.
+  
+  # Filtro para entidades Wikidata válidas
+  FILTER(STRSTARTS(STR(?entidadIntermedia), "http://www.wikidata.org/entity/"))
+  
+  # --- GRADO 2 ---
+  # Entidad Intermedia -> Entidad Grado 2
+  ?entidadIntermedia ?propiedadGrado2 ?entidadGrado2.
+  
+  # Filtros para propiedades y entidades válidas
+  FILTER(STRSTARTS(STR(?propiedadGrado2), "http://www.wikidata.org/prop/direct/"))
+  FILTER(STRSTARTS(STR(?entidadGrado2), "http://www.wikidata.org/entity/"))
+}
+
+# --- ORDENAMIENTO ---
+ORDER BY ?dimension ?propiedadGrado1
+
+# --- LÍMITE PARA EVITAR TIMEOUT ---
+LIMIT 50

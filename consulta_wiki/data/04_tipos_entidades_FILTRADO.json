@@ -1,0 +1,1130 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "itemDescription",
+      "tipo",
+      "tipoLabel",
+      "propiedad",
+      "propiedadLabel",
+      "valor",
+      "valorLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2408955"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Festividad de Qoyllorit'i"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "religious festival in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2408955"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Festividad de Qoyllorit'i"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "religious festival in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2408955"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q205057"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Festividad de Qoyllorit'i"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "religious festival in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Departamento de Cusco"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3804600"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Iuma"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peruvian carnival party"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3804600"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Iuma"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peruvian carnival party"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30914346"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Festividad PerúBA"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30914346"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Festividad PerúBA"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99209774"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día del Cajón Peruano"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99209774"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día del Cajón Peruano"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99209774"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3010205"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día del Cajón Peruano"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebración"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99211395"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día de la Medicina Peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99211395"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día de la Medicina Peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99211395"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3010205"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día de la Medicina Peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebración"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99317470"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día de la Enfermería Peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99317470"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día de la Enfermería Peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99317470"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3010205"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día de la Enfermería Peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebración"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118113506"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día Internacional de los Trabajadores en Perú 2023"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebraciones del Día Internacional de los Trabajadores en Perú en el 2023"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118113506"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Día Internacional de los Trabajadores en Perú 2023"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebraciones del Día Internacional de los Trabajadores en Perú en el 2023"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118395687"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Raymi Llacta"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118395687"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Raymi Llacta"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad peruana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5447343"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiestas Patrias en el Perú"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebraciones anuales desarrolladas en Perú como conmemoración a su inicio de vida soberana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5447343"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiestas Patrias en el Perú"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebraciones anuales desarrolladas en Perú como conmemoración a su inicio de vida soberana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5447343"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68478"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiestas Patrias en el Perú"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "celebraciones anuales desarrolladas en Perú como conmemoración a su inicio de vida soberana"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Guerra de Independencia de Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5861783"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiesta internacional de teatro en calles abiertas"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5861783"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiesta internacional de teatro en calles abiertas"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "fiesta"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q375011"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60643381"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiesta de la Virgen del Carmen de Paucartambo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa en Cuzco"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q375011"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60643381"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q375011"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiesta de la Virgen del Carmen de Paucartambo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa en Cuzco"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa"
+        }
+      },
+      {
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q375011"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60643381"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1065053"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fiesta de la Virgen del Carmen de Paucartambo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa en Cuzco"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "festividad religiosa"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Virgen del Carmen"
+        }
+      }
+    ]
+  }
+}

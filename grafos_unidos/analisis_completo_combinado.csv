@@ -1,0 +1,323 @@
+nodo_id,nombre_nodo,tipo,dimension,grado_centralidad,intermediacion,grado,es_principal
+Q419,Perú,intermediate,Geográfica,0.7881619937694704,0.004848130841121495,253,False
+Q205057,Departamento de Cusco,target,N/A,0.06853582554517133,0.00029205607476635517,22,False
+Q1065053,Virgen del Carmen,intermediate,N/A,0.059190031152647975,0.0003309968847352025,19,False
+Q2731,16 de julio,intermediate,N/A,0.040498442367601244,0.0002044392523364486,13,False
+Q2729,17 de julio,intermediate,N/A,0.037383177570093455,9.735202492211839e-05,12,False
+Q2730,18 de julio,intermediate,N/A,0.037383177570093455,9.735202492211839e-05,12,False
+Q60643381,Q60643381,central,Central,0.024922118380062305,0.00041861370716510905,8,True
+Q200538,fiesta,intermediate,Identidad,0.024922118380062305,0.00012169003115264798,8,False
+Q2408955,Q2408955,central,Central,0.024922118380062305,0.00020930685358255452,8,True
+Q375011,festividad religiosa,intermediate,Identidad,0.021806853582554516,0.00011682242990654206,7,False
+Q110319947,Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad,intermediate,N/A,0.01557632398753894,7.788161993769471e-05,5,False
+Q132,domingo,target,N/A,0.009345794392523364,0.0,3,False
+Q14795564,determinador para fecha de ocurrencia periódica,target,Identidad,0.009345794392523364,0.0,3,False
+Q25755314,Gran Cruz de la Orden El Sol del Perú,intermediate,N/A,0.009345794392523364,3.8940809968847354e-05,3,False
+Q121,julio,target,Cultural,0.009345794392523364,0.0,3,False
+Q128,miércoles,target,N/A,0.009345794392523364,0.0,3,False
+Q131,sábado,target,N/A,0.009345794392523364,0.0,3,False
+Q129,jueves,target,N/A,0.009345794392523364,0.0,3,False
+Q105,lunes,target,N/A,0.009345794392523364,0.0,3,False
+Q130,viernes,target,N/A,0.009345794392523364,0.0,3,False
+Q127,martes,target,N/A,0.009345794392523364,0.0,3,False
+Q5390,UTC-05:00,target,N/A,0.006230529595015576,0.0,2,False
+Q3915441,machiguenga,target,N/A,0.006230529595015576,0.0,2,False
+Q112898263,WikiProyecto patrimonio cultural inmaterial,intermediate,N/A,0.006230529595015576,1.9470404984423677e-05,2,False
+Q3572572,Q3572572,target,N/A,0.006230529595015576,0.0,2,False
+Q3446617,Huachipaeri,target,N/A,0.006230529595015576,0.0,2,False
+Q6173448,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,target,N/A,0.006230529595015576,0.0,2,False
+Q3437230,asháninca,target,N/A,0.006230529595015576,0.0,2,False
+Q35145,quechua ayacuchano,target,N/A,0.006230529595015576,0.0,2,False
+Q35147,quechua cuzqueño,target,N/A,0.006230529595015576,0.0,2,False
+Q15342275,pucapucari,target,N/A,0.006230529595015576,0.0,2,False
+Q12953837,Q12953837,target,N/A,0.006230529595015576,0.0,2,False
+Q12953838,Q12953838,target,N/A,0.006230529595015576,0.0,2,False
+Q7260479,quechua puneño,target,N/A,0.006230529595015576,0.0,2,False
+Q3915557,caquinte,target,N/A,0.006230529595015576,0.0,2,False
+Q18,América del Sur,target,N/A,0.003115264797507788,0.0,1,False
+Q28914,santo patrón,target,N/A,0.003115264797507788,0.0,1,False
+Q130748394,fiesta religiosa,target,N/A,0.003115264797507788,0.0,1,False
+Q124737632,Q124737632,target,N/A,0.003115264797507788,0.0,1,False
+Q126727085,Q126727085,target,N/A,0.003115264797507788,0.0,1,False
+Q126003991,Q126003991,target,N/A,0.003115264797507788,0.0,1,False
+Q120962089,Q120962089,target,N/A,0.003115264797507788,0.0,1,False
+Q112225065,Q112225065,target,N/A,0.003115264797507788,0.0,1,False
+Q44388,Fgura,target,N/A,0.003115264797507788,0.0,1,False
+Q23800,La Valeta,target,N/A,0.003115264797507788,0.0,1,False
+Q842490,Organización para la Prohibición de Armas Químicas,target,N/A,0.003115264797507788,0.0,1,False
+Q827525,Asociación Internacional de Fomento,target,N/A,0.003115264797507788,0.0,1,False
+Q656801,Corporación Financiera Internacional,target,N/A,0.003115264797507788,0.0,1,False
+Q605326,Organización Mundial de Aduanas,target,N/A,0.003115264797507788,0.0,1,False
+Q471690,Comunidad Andina,target,N/A,0.003115264797507788,0.0,1,False
+Q3369762,Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe,target,N/A,0.003115264797507788,0.0,1,False
+Q5611262,Grupo para las observaciones de la Tierra,target,N/A,0.003115264797507788,0.0,1,False
+Q298,Chile,target,N/A,0.003115264797507788,0.0,1,False
+Q739,Colombia,target,N/A,0.003115264797507788,0.0,1,False
+Q750,Bolivia,target,N/A,0.003115264797507788,0.0,1,False
+Q155,Brasil,target,N/A,0.003115264797507788,0.0,1,False
+Q159583,Santa Sede,target,N/A,0.003115264797507788,0.0,1,False
+Q200935,Huascarán,target,N/A,0.003115264797507788,0.0,1,False
+Q653884,Hispanoamérica,target,N/A,0.003115264797507788,0.0,1,False
+Q68478,Guerra de Independencia de Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q5447343,Fiestas Patrias en el Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q7130836,Categoría:Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q7336337,Portal:Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q932146,Banco Central de Reserva del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q8851,Málaga,target,N/A,0.003115264797507788,0.0,1,False
+Q11185474,Q11185474,target,N/A,0.003115264797507788,0.0,1,False
+Q1500631,guerra peruano-ecuatoriana,target,N/A,0.003115264797507788,0.0,1,False
+Q1760930,Conflicto del Falso Paquisha,target,N/A,0.003115264797507788,0.0,1,False
+Q6083745,Q6083745,target,N/A,0.003115264797507788,0.0,1,False
+Q8067934,Categoría:Nacidos en Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q7482563,Categoría:Fallecidos en Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q3174312,país libre,target,N/A,0.003115264797507788,0.0,1,False
+Q5803287,Depresión de Sechura,target,N/A,0.003115264797507788,0.0,1,False
+Q899770,Centro Internacional de Arreglo de Diferencias Relativas a Inversiones,target,N/A,0.003115264797507788,0.0,1,False
+Q7521945,Categoría:Películas rodadas en Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q8328735,Q8328735,target,N/A,0.003115264797507788,0.0,1,False
+Q7031247,Categoría:Peruanos,target,N/A,0.003115264797507788,0.0,1,False
+Q217884,PE,target,N/A,0.003115264797507788,0.0,1,False
+Q316648,historia del Perú,target,Patrimonio,0.003115264797507788,0.0,1,False
+Q2739669,Cultura del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q2342212,geografía del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q533806,911,target,N/A,0.003115264797507788,0.0,1,False
+Q2669184,iquito,target,N/A,0.003115264797507788,0.0,1,False
+Q1321,español,target,N/A,0.003115264797507788,0.0,1,False
+Q5218,lenguas quechuas,target,N/A,0.003115264797507788,0.0,1,False
+Q72256,español amazónico,target,N/A,0.003115264797507788,0.0,1,False
+Q642843,candoshi,target,N/A,0.003115264797507788,0.0,1,False
+Q966883,Pisabo,target,N/A,0.003115264797507788,0.0,1,False
+Q967031,Jebero,target,N/A,0.003115264797507788,0.0,1,False
+Q14565199,derecha,target,N/A,0.003115264797507788,0.0,1,False
+Q302556,Enciclopedia Católica,target,N/A,0.003115264797507788,0.0,1,False
+Q602358,Diccionario Enciclopédico Brockhaus y Efron,target,N/A,0.003115264797507788,0.0,1,False
+Q867541,Encyclopædia Britannica (11ª edición),target,N/A,0.003115264797507788,0.0,1,False
+Q1374339,Q1374339,target,N/A,0.003115264797507788,0.0,1,False
+Q3181656,The Nuttall Encyclopaedia,target,N/A,0.003115264797507788,0.0,1,False
+Q4114391,Enciclopedia militar Sytin,target,N/A,0.003115264797507788,0.0,1,False
+Q4532138,Diccionario Enciclopédico Granat,target,N/A,0.003115264797507788,0.0,1,False
+Q19180675,Pequeño diccionario enciclopédico de Brockhaus y Efron,target,N/A,0.003115264797507788,0.0,1,False
+Q3182567,Idioma yagua,target,N/A,0.003115264797507788,0.0,1,False
+Q1526037,huambisa,target,N/A,0.003115264797507788,0.0,1,False
+Q1526525,Idioma shawi,target,N/A,0.003115264797507788,0.0,1,False
+Q1526530,aguaruna,target,N/A,0.003115264797507788,0.0,1,False
+Q1579560,urarina,target,N/A,0.003115264797507788,0.0,1,False
+Q1815205,ticuna,target,N/A,0.003115264797507788,0.0,1,False
+Q1957508,taushiro,target,N/A,0.003115264797507788,0.0,1,False
+Q1957612,omurano,target,N/A,0.003115264797507788,0.0,1,False
+Q2155119,chamicuro,target,N/A,0.003115264797507788,0.0,1,False
+Q2375468,bora,target,N/A,0.003115264797507788,0.0,1,False
+Q2475442,culina,target,N/A,0.003115264797507788,0.0,1,False
+Q2591221,arabela,target,N/A,0.003115264797507788,0.0,1,False
+Q2591230,Kashinawa,target,N/A,0.003115264797507788,0.0,1,False
+Q2591243,cholón,target,N/A,0.003115264797507788,0.0,1,False
+Q2640935,murui,target,N/A,0.003115264797507788,0.0,1,False
+Q2669150,Idioma amahuaca,target,N/A,0.003115264797507788,0.0,1,False
+Q3915508,lengua de señas peruana,target,N/A,0.003115264797507788,0.0,1,False
+Q2671988,Idioma shipibo,target,N/A,0.003115264797507788,0.0,1,False
+Q2823170,Achuar,target,N/A,0.003115264797507788,0.0,1,False
+Q2846171,andoa,target,N/A,0.003115264797507788,0.0,1,False
+Q2871740,tekiraka,target,N/A,0.003115264797507788,0.0,1,False
+Q2933175,cahuarano,target,N/A,0.003115264797507788,0.0,1,False
+Q2937196,Kapanawa,target,N/A,0.003115264797507788,0.0,1,False
+Q2980381,Idioma ese eja,target,N/A,0.003115264797507788,0.0,1,False
+Q2981620,Matsés,target,N/A,0.003115264797507788,0.0,1,False
+Q3026110,Idioma yaminahua,target,N/A,0.003115264797507788,0.0,1,False
+Q3052971,Idioma isconahua,target,N/A,0.003115264797507788,0.0,1,False
+Q3088540,yanesha,target,N/A,0.003115264797507788,0.0,1,False
+Q3121032,Q3121032,target,N/A,0.003115264797507788,0.0,1,False
+Q3135164,hibito,target,N/A,0.003115264797507788,0.0,1,False
+Q3135432,yine,target,N/A,0.003115264797507788,0.0,1,False
+Q3141869,waripano,target,N/A,0.003115264797507788,0.0,1,False
+Q20526610,aimara central,target,N/A,0.003115264797507788,0.0,1,False
+Q3182577,Ocaina,target,N/A,0.003115264797507788,0.0,1,False
+Q3327405,axininca,target,N/A,0.003115264797507788,0.0,1,False
+Q3331203,aguano,target,N/A,0.003115264797507788,0.0,1,False
+Q3342992,nomatsiguenga,target,N/A,0.003115264797507788,0.0,1,False
+Q3355834,Idioma maijuna,target,N/A,0.003115264797507788,0.0,1,False
+Q3409318,aushiri,target,N/A,0.003115264797507788,0.0,1,False
+Q3446596,mashco piro,target,N/A,0.003115264797507788,0.0,1,False
+Q3450481,ashéninka,target,N/A,0.003115264797507788,0.0,1,False
+Q3450504,Idioma resígaro,target,N/A,0.003115264797507788,0.0,1,False
+Q3450601,Q3450601,target,N/A,0.003115264797507788,0.0,1,False
+Q3477218,Q3477218,target,N/A,0.003115264797507788,0.0,1,False
+Q3501825,Q3501825,target,N/A,0.003115264797507788,0.0,1,False
+Q3501858,Q3501858,target,N/A,0.003115264797507788,0.0,1,False
+Q3501868,Q3501868,target,N/A,0.003115264797507788,0.0,1,False
+Q3508036,Q3508036,target,N/A,0.003115264797507788,0.0,1,False
+Q205068,Departamento de Arequipa,target,N/A,0.003115264797507788,0.0,1,False
+Q3915654,muniche,target,N/A,0.003115264797507788,0.0,1,False
+Q5359560,cashibo-cacataibo,target,N/A,0.003115264797507788,0.0,1,False
+Q6094343,quechua de Huailas,target,N/A,0.003115264797507788,0.0,1,False
+Q7190661,Pichis Ashéninka,target,N/A,0.003115264797507788,0.0,1,False
+Q7451029,Sensi,target,N/A,0.003115264797507788,0.0,1,False
+Q12953831,Q12953831,target,N/A,0.003115264797507788,0.0,1,False
+Q12953835,Q12953835,target,N/A,0.003115264797507788,0.0,1,False
+Q12953839,quechua de Cajatambo,target,N/A,0.003115264797507788,0.0,1,False
+Q12953843,jauja huanca,target,N/A,0.003115264797507788,0.0,1,False
+Q12953840,Q12953840,target,N/A,0.003115264797507788,0.0,1,False
+Q12953841,quechua de Corongo,target,N/A,0.003115264797507788,0.0,1,False
+Q12953844,Quechua del norte de Junín,target,N/A,0.003115264797507788,0.0,1,False
+Q12953848,Q12953848,target,N/A,0.003115264797507788,0.0,1,False
+Q12953881,sharanahua,target,N/A,0.003115264797507788,0.0,1,False
+Q15338035,Iñapari,target,N/A,0.003115264797507788,0.0,1,False
+Q208183,Departamento de Piura,target,N/A,0.003115264797507788,0.0,1,False
+Q208186,Departamento de Ica,target,N/A,0.003115264797507788,0.0,1,False
+Q25559675,quechua de Margos-Yarowilca-Lauricocha,target,N/A,0.003115264797507788,0.0,1,False
+Q25559676,Q25559676,target,N/A,0.003115264797507788,0.0,1,False
+Q25559677,Quechua de Chiquián,target,N/A,0.003115264797507788,0.0,1,False
+Q7112412,Q7112412,target,N/A,0.003115264797507788,0.0,1,False
+Q8607449,Q8607449,target,N/A,0.003115264797507788,0.0,1,False
+Q511629,economía del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q1185963,demografía del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q2868,Lima,target,N/A,0.003115264797507788,0.0,1,False
+Q106474688,Dina Boluarte,target,N/A,0.003115264797507788,0.0,1,False
+Q3624078,estado soberano,target,Identidad,0.003115264797507788,0.0,1,False
+Q204656,sol,target,N/A,0.003115264797507788,0.0,1,False
+Q4627,aymara,target,N/A,0.003115264797507788,0.0,1,False
+Q736,Ecuador,target,N/A,0.003115264797507788,0.0,1,False
+Q199821,Gran Colombia,target,N/A,0.003115264797507788,0.0,1,False
+Q3649429,Administración pública en el Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q2842477,Tribunal Constitucional del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q12585,América Latina,target,Cultural,0.003115264797507788,0.0,1,False
+Q205104,Departamento de Puno,target,N/A,0.003115264797507788,0.0,1,False
+Q205112,Departamento de Ayacucho,target,N/A,0.003115264797507788,0.0,1,False
+Q207424,Departamento de Ucayali,target,N/A,0.003115264797507788,0.0,1,False
+Q207973,Departamento de Junín,target,N/A,0.003115264797507788,0.0,1,False
+Q208185,Departamento de Apurímac,target,N/A,0.003115264797507788,0.0,1,False
+Q210896,Departamento de Madre de Dios,target,N/A,0.003115264797507788,0.0,1,False
+Q200938,Departamento de Loreto,target,N/A,0.003115264797507788,0.0,1,False
+Q201162,Departamento de Amazonas,target,N/A,0.003115264797507788,0.0,1,False
+Q205078,Departamento de Cajamarca,target,N/A,0.003115264797507788,0.0,1,False
+Q205089,Departamento de Áncash,target,N/A,0.003115264797507788,0.0,1,False
+Q205126,Departamento de La Libertad,target,N/A,0.003115264797507788,0.0,1,False
+Q207413,Departamento de Tacna,target,N/A,0.003115264797507788,0.0,1,False
+Q208182,Departamento de Moquegua,target,N/A,0.003115264797507788,0.0,1,False
+Q414,Argentina,target,N/A,0.003115264797507788,0.0,1,False
+Q423,Corea del Norte,target,N/A,0.003115264797507788,0.0,1,False
+Q733,Paraguay,target,N/A,0.003115264797507788,0.0,1,False
+Q801,Israel,target,N/A,0.003115264797507788,0.0,1,False
+Q209597,Departamento de Tumbes,target,N/A,0.003115264797507788,0.0,1,False
+Q210061,Departamento de Lambayeque,target,N/A,0.003115264797507788,0.0,1,False
+Q211208,Departamento de Pasco,target,N/A,0.003115264797507788,0.0,1,False
+Q211795,Departamento de Lima,target,N/A,0.003115264797507788,0.0,1,False
+Q211793,Departamento de San Martín,target,N/A,0.003115264797507788,0.0,1,False
+Q215221,Departamento de Huánuco,target,N/A,0.003115264797507788,0.0,1,False
+Q505220,Departamento de Huancavelica,target,N/A,0.003115264797507788,0.0,1,False
+Q2634400,Provincia Constitucional del Callao,target,N/A,0.003115264797507788,0.0,1,False
+Q7251405,Protectorado del San Martín,target,N/A,0.003115264797507788,0.0,1,False
+Q160255,Bandera Nacional del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q4359289,peruanos,target,N/A,0.003115264797507788,0.0,1,False
+Q1357543,Congreso de la República del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q142,Francia,target,N/A,0.003115264797507788,0.0,1,False
+Q145,Reino Unido,target,N/A,0.003115264797507788,0.0,1,False
+Q148,República Popular China,target,N/A,0.003115264797507788,0.0,1,False
+Q159,Rusia,target,N/A,0.003115264797507788,0.0,1,False
+Q183,Alemania,target,N/A,0.003115264797507788,0.0,1,False
+Q4435332,Anexo:Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad,target,Cultural,0.003115264797507788,0.0,1,False
+Q84036549,Patrimonio Cultural Inmaterial de la Humanidad,target,Cultural,0.003115264797507788,0.0,1,False
+Q1415232,Orden El Sol del Perú,target,Cultural,0.003115264797507788,0.0,1,False
+Q1065,Organización de las Naciones Unidas,target,N/A,0.003115264797507788,0.0,1,False
+Q4230,Unión de Naciones Suramericanas,target,N/A,0.003115264797507788,0.0,1,False
+Q7817,Organización Mundial de la Salud,target,N/A,0.003115264797507788,0.0,1,False
+Q7825,Organización Mundial del Comercio,target,N/A,0.003115264797507788,0.0,1,False
+Q8475,Interpol,target,N/A,0.003115264797507788,0.0,1,False
+Q17495,Unión Postal Universal,target,N/A,0.003115264797507788,0.0,1,False
+Q403,Serbia,target,N/A,0.003115264797507788,0.0,1,False
+Q408,Australia,target,N/A,0.003115264797507788,0.0,1,False
+Q17414829,Q17414829,target,N/A,0.003115264797507788,0.0,1,False
+Q25648807,116,target,N/A,0.003115264797507788,0.0,1,False
+Q25648856,105,target,N/A,0.003115264797507788,0.0,1,False
+Q25559686,Q25559686,target,N/A,0.003115264797507788,0.0,1,False
+Q25559688,Q25559688,target,N/A,0.003115264797507788,0.0,1,False
+Q833,Malasia,target,N/A,0.003115264797507788,0.0,1,False
+Q865,República de China,target,N/A,0.003115264797507788,0.0,1,False
+Q17,Japón,target,N/A,0.003115264797507788,0.0,1,False
+Q30,Estados Unidos,target,N/A,0.003115264797507788,0.0,1,False
+Q28,Hungría,target,N/A,0.003115264797507788,0.0,1,False
+Q29,España,target,N/A,0.003115264797507788,0.0,1,False
+Q34,Suecia,target,N/A,0.003115264797507788,0.0,1,False
+Q38,Italia,target,N/A,0.003115264797507788,0.0,1,False
+Q41,Grecia,target,N/A,0.003115264797507788,0.0,1,False
+Q77,Uruguay,target,N/A,0.003115264797507788,0.0,1,False
+Q96,México,target,N/A,0.003115264797507788,0.0,1,False
+Q35138,quechua chachapoyano,target,N/A,0.003115264797507788,0.0,1,False
+Q35492,quechua huanuqueño,target,N/A,0.003115264797507788,0.0,1,False
+Q35519,Quechua Incahuasi-Cañaris,target,N/A,0.003115264797507788,0.0,1,False
+Q35880,quechua lamista,target,N/A,0.003115264797507788,0.0,1,False
+Q36331,quechua de Pacaraos,target,N/A,0.003115264797507788,0.0,1,False
+Q36960,quechua huanca,target,N/A,0.003115264797507788,0.0,1,False
+Q241,Cuba,target,N/A,0.003115264797507788,0.0,1,False
+Q252,Indonesia,target,N/A,0.003115264797507788,0.0,1,False
+Q777794,Ausangate,target,N/A,0.003115264797507788,0.0,1,False
+Q7216597,Categoría:Fiestas,target,N/A,0.003115264797507788,0.0,1,False
+Q7215033,Categoría:Departamento de Cuzco,target,N/A,0.003115264797507788,0.0,1,False
+Q106727050,Metropolitan Museum of Art Tagging Vocabulary,target,N/A,0.003115264797507788,0.0,1,False
+Q130472892,Categoría:Nacidos en el departamento del Cusco,target,N/A,0.003115264797507788,0.0,1,False
+Q130476514,Categoría:Fallecidos en el departamento del Cusco,target,N/A,0.003115264797507788,0.0,1,False
+Q230880,Party,target,N/A,0.003115264797507788,0.0,1,False
+Q577407,The Party,target,N/A,0.003115264797507788,0.0,1,False
+Q16695773,wikiproyecto,target,Identidad,0.003115264797507788,0.0,1,False
+Q108586636,forma del evento,target,Identidad,0.003115264797507788,0.0,1,False
+Q861184,departmento del Perú,target,Identidad,0.003115264797507788,0.0,1,False
+Q60754876,grado de una orden,target,Identidad,0.003115264797507788,0.0,1,False
+Q5582862,Cuzco,target,N/A,0.003115264797507788,0.0,1,False
+Q11185405,Q11185405,target,N/A,0.003115264797507788,0.0,1,False
+Q25559692,Q25559692,target,N/A,0.003115264797507788,0.0,1,False
+Q25559706,Q25559706,target,N/A,0.003115264797507788,0.0,1,False
+Q42305075,Q42305075,target,N/A,0.003115264797507788,0.0,1,False
+Q42308366,Q42308366,target,N/A,0.003115264797507788,0.0,1,False
+Q63308389,Q63308389,target,N/A,0.003115264797507788,0.0,1,False
+Q33317,cocama,target,N/A,0.003115264797507788,0.0,1,False
+Q33443,jacaru,target,N/A,0.003115264797507788,0.0,1,False
+Q33663,Omagua,target,N/A,0.003115264797507788,0.0,1,False
+Q35112,quechua cajamarquino,target,N/A,0.003115264797507788,0.0,1,False
+Q35128,Amarakaeri,target,N/A,0.003115264797507788,0.0,1,False
+Q1445650,día festivo,target,N/A,0.003115264797507788,0.0,1,False
+Q123747429,Nuestra Señora de las Gallinas,target,N/A,0.003115264797507788,0.0,1,False
+Q568699,Escapulario del Carmen,target,N/A,0.003115264797507788,0.0,1,False
+Q9399546,Categoría:16 de julio,target,N/A,0.003115264797507788,0.0,1,False
+Q9400156,Categoría:17 de julio,target,N/A,0.003115264797507788,0.0,1,False
+Q9402255,Categoría:18 de julio,target,N/A,0.003115264797507788,0.0,1,False
+Q7152597,Q7152597,target,N/A,0.003115264797507788,0.0,1,False
+Q9013006,Categoría:Templos con advocación a la Virgen del Carmen,target,N/A,0.003115264797507788,0.0,1,False
+Q186277,Orden de los Hermanos de la Bienaventurada Virgen María del Monte Carmelo,target,N/A,0.003115264797507788,0.0,1,False
+Q632097,Gżira,target,N/A,0.003115264797507788,0.0,1,False
+Q36964,quechua de Yauyos,target,N/A,0.003115264797507788,0.0,1,False
+Q56333,nipode,target,N/A,0.003115264797507788,0.0,1,False
+Q108109790,Q108109790,target,N/A,0.003115264797507788,0.0,1,False
+Q115997919,Werner Salcedo,target,N/A,0.003115264797507788,0.0,1,False
+Q618779,distinción,target,Identidad,0.003115264797507788,0.0,1,False
+Q116056897,inventario de patrimonio cultural inmaterial,target,Identidad,0.003115264797507788,0.0,1,False
+Q384535,Operación Híbrida de la Unión Africana y las Naciones Unidas en Darfur,target,N/A,0.003115264797507788,0.0,1,False
+Q4530,escudo del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q27103714,Q27103714,target,N/A,0.003115264797507788,0.0,1,False
+Q97096839,Q97096839,target,N/A,0.003115264797507788,0.0,1,False
+Q97318418,Q97318418,target,N/A,0.003115264797507788,0.0,1,False
+Q116031914,Q116031914,target,N/A,0.003115264797507788,0.0,1,False
+Q6581072,femenino,target,N/A,0.003115264797507788,0.0,1,False
+Q134485872,forma de festivo,target,Identidad,0.003115264797507788,0.0,1,False
+Q1406161,tema artístico,target,Identidad,0.003115264797507788,0.0,1,False
+Q1509831,advocación mariana,target,Identidad,0.003115264797507788,0.0,1,False
+Q41954,.pe,target,N/A,0.003115264797507788,0.0,1,False
+Q4944,Himno Nacional del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q49892,presidencialismo,target,N/A,0.003115264797507788,0.0,1,False
+Q9592,Iglesia católica,target,Religioso,0.003115264797507788,0.0,1,False
+Q11185437,Q11185437,target,N/A,0.003115264797507788,0.0,1,False
+Q1043527,Organismo Multilateral de Garantía de Inversiones,target,N/A,0.003115264797507788,0.0,1,False
+Q4546664,106,target,N/A,0.003115264797507788,0.0,1,False
+Q4547309,111,target,N/A,0.003115264797507788,0.0,1,False
+Q4547615,117,target,N/A,0.003115264797507788,0.0,1,False
+Q1378312,enchufe europeo,target,N/A,0.003115264797507788,0.0,1,False
+Q24288454,Tipo A,target,N/A,0.003115264797507788,0.0,1,False
+Q24288456,NEMA 5-15,target,N/A,0.003115264797507788,0.0,1,False
+Q5708511,presidente del Perú,target,N/A,0.003115264797507788,0.0,1,False
+Q185318,Monte Carmelo,target,N/A,0.003115264797507788,0.0,1,False
+Q7809,UNESCO,target,N/A,0.003115264797507788,0.0,1,False
+Q123759,Organización de los Estados Americanos,target,N/A,0.003115264797507788,0.0,1,False
+Q170424,Organización Meteorológica Mundial,target,N/A,0.003115264797507788,0.0,1,False
+Q170481,Foro de Cooperación Económica Asia-Pacífico,target,N/A,0.003115264797507788,0.0,1,False
+Q186444,Tratado de No Proliferación Nuclear,target,N/A,0.003115264797507788,0.0,1,False
+Q191384,Banco Internacional de Reconstrucción y Fomento,target,N/A,0.003115264797507788,0.0,1,False
+Q233611,Organización Hidrográfica Internacional,target,N/A,0.003115264797507788,0.0,1,False
+Q376150,Unión Internacional de Telecomunicaciones,target,N/A,0.003115264797507788,0.0,1,False

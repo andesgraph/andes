@@ -1,0 +1,18 @@
+SELECT ?item ?itemLabel ?itemDescription ?tipo ?tipoLabel ?propiedad ?propiedadLabel ?valor ?valorLabel {
+  {
+    # Items peruanos en la Lista Representativa del PCIH
+    ?item wdt:P3259 wd:Q110319947; # Pertenece a la Lista del PCIH
+          wdt:P17 wd:Q419.          # Y está en Perú
+  }
+  UNION
+  {
+    # Items peruanos que son parte de la Lista (ej: elementos de un expediente más grande)
+    ?item wdt:P361 wd:Q110319947; # Es parte de la Lista del PCIH
+          wdt:P17 wd:Q419.
+  }
+  ?item ?propiedad ?valor.
+  FILTER(STRSTARTS(STR(?propiedad), "http://www.wikidata.org/prop/direct/"))
+  FILTER(?propiedad NOT IN (wdt:P373, wdt:P910))
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en,qu,ay,[AUTO_LANGUAGE]". }
+}
+ORDER BY ?itemLabel

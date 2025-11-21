@@ -1,0 +1,18 @@
+# CONSULTA 02c_red_geografica: La red de lugares y festividades en el Cusco
+SELECT ?item ?itemLabel ?itemDescription ?tipo ?tipoLabel ?propiedad ?propiedadLabel ?valor ?valorLabel {
+  # Encuentra items ubicados en un distrito/ciudad del Cusco
+  ?item wdt:P276 ?ubicacion.
+  ?ubicacion wdt:P131* wd:Q205057. # La ubicación está en el Dept. Cusco
+
+  # Obtener el tipo del item para filtrar DESPUÉS en el análisis
+  ?item wdt:P31 ?tipo.
+
+  # Obtener algunas propiedades clave del item
+  ?item ?propiedad ?valor.
+  # Enfocarse en propiedades de identidad y relación, excluir metadatos
+  FILTER(STRSTARTS(STR(?propiedad), "http://www.wikidata.org/prop/direct/"))
+  FILTER(?propiedad IN (wdt:P31, wdt:P17, wdt:P276, wdt:P131, wdt:P361, wdt:P138, wdt:P4552))
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en,[AUTO_LANGUAGE]". }
+}
+LIMIT 500

@@ -1,0 +1,9 @@
+{
+  "metadata": {
+    "dimension": "Patrimonio",
+    "fecha_ejecucion": "2025-08-19T18:07:00.033555",
+    "total_resultados": 0,
+    "consulta": "\n# Profundización ESPECÍFICA de dimensión Patrimonio\nPREFIX wd: <http://www.wikidata.org/entity/>\nPREFIX wdt: <http://www.wikidata.org/prop/direct/>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT DISTINCT ?nodoOrigen ?propiedad ?nodoDestino ?nodoOrigenLabel ?nodoDestinoLabel ?propiedadLabel\nWHERE {\n  VALUES ?nodoOrigen { wd:Q112898263 }\n  VALUES ?propiedad { wdt:P1435 wdt:P2184 }\n  \n  ?nodoOrigen ?propiedad ?nodoDestino.\n  \n  # FILTROS ESTRICTOS de calidad\n  FILTER(STRSTARTS(STR(?nodoDestino), \"http://www.wikidata.org/entity/Q\"))\n  FILTER(?nodoDestino != ?nodoOrigen)\n  FILTER(!CONTAINS(STR(?nodoDestino), \"statement\"))\n  FILTER(!CONTAINS(STR(?nodoDestino), \"reference\"))\n  FILTER(!CONTAINS(STR(?nodoDestino), \"ontology\"))\n  \n  # Excluir nodos demasiado genéricos\n  FILTER(!STRSTARTS(STR(?nodoDestino), \"http://www.wikidata.org/entity/Q1\"))\n  FILTER(!STRSTARTS(STR(?nodoDestino), \"http://www.wikidata.org/entity/Q2\"))\n  FILTER(!STRSTARTS(STR(?nodoDestino), \"http://www.wikidata.org/entity/Q3\"))\n  FILTER(!STRSTARTS(STR(?nodoDestino), \"http://www.wikidata.org/entity/Q4\"))\n  FILTER(!STRSTARTS(STR(?nodoDestino), \"http://www.wikidata.org/entity/Q5\"))\n  \n  # Labels en español\n  OPTIONAL { ?nodoOrigen rdfs:label ?nodoOrigenLabel. FILTER(LANG(?nodoOrigenLabel) = \"es\") }\n  OPTIONAL { ?nodoDestino rdfs:label ?nodoDestinoLabel. FILTER(LANG(?nodoDestinoLabel) = \"es\") }\n  OPTIONAL { ?propiedad rdfs:label ?propiedadLabel. FILTER(LANG(?propiedadLabel) = \"es\") }\n}\nLIMIT 200\n"
+  },
+  "resultados": []
+}

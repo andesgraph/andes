@@ -1,0 +1,2361 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "itemDescription",
+      "tipo",
+      "tipoLabel",
+      "propiedad",
+      "propiedadLabel",
+      "valor",
+      "valorLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42833695"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Capilla Virgen Inmaculada Concepción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42833695"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Capilla Virgen Inmaculada Concepción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42833695"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920482"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Capilla Virgen Inmaculada Concepción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Anta"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42833695"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3825462"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Capilla Virgen Inmaculada Concepción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Anta"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834609"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Iglesia Virgen de las Nieves de Sangarará"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834609"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Iglesia Virgen de las Nieves de Sangarará"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834609"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920602"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Iglesia Virgen de las Nieves de Sangarará"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Acomayo"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834609"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2718575"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Iglesia Virgen de las Nieves de Sangarará"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Sangarará"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835067"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo de Nuestra Señora de la Asunción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835067"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo de Nuestra Señora de la Asunción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835067"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920602"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo de Nuestra Señora de la Asunción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Acomayo"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835067"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2718526"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo de Nuestra Señora de la Asunción"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Rondocan"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835562"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo del Señor de la Exaltación"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835562"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo del Señor de la Exaltación"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835562"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920500"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo del Señor de la Exaltación"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Canas"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835562"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3312971"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo del Señor de la Exaltación"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Quehue"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836531"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Domingo de Sanka"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836531"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Domingo de Sanka"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836531"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920602"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Domingo de Sanka"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Acomayo"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836531"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2718526"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Domingo de Sanka"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Rondocan"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836561"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Tomas de Aquino"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836561"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Tomas de Aquino"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836561"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920602"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Santo Tomas de Aquino"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Acomayo"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1132101"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Cuzco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1132101"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Cuzco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5582862"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cuzco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5582862"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cuzco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2723621"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Cusco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3001637"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1128397"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2723621"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Convento de Santo Domingo"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "convento"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Cusco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10858554"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130719847"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Señor de los Temblores"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocación de Cristo en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocacion cristífera"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10858554"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130719847"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130719847"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Señor de los Temblores"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocación de Cristo en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocacion cristífera"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocacion cristífera"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10858554"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130719847"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2942242"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Señor de los Temblores"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocación de Cristo en Cusco, Perú"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "advocacion cristífera"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Catedral del Cusco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835698"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Nuestra Señora Asunta de Pampacucho"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835698"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Nuestra Señora Asunta de Pampacucho"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835698"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920613"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Nuestra Señora Asunta de Pampacucho"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Paruro"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42835698"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3312249"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Nuestra Señora Asunta de Pampacucho"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Colcha"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836586"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836586"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836586"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1948019"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Calca"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42836586"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3312892"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Lares"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131344185"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3305213"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3305213"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "pintura"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "pintura"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131344185"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3305213"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54800990"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "pintura"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Museo Histórico Regional de Cusco"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42832097"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia de la Natividad de la Virgen"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia en Chinchero"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42832097"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia de la Natividad de la Virgen"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia en Chinchero"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42832097"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1073654"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia de la Natividad de la Virgen"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia en Chinchero"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de Chinchero"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42832097"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26764442"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia de la Natividad de la Virgen"
+        },
+        "itemDescription": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia en Chinchero"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "iglesia"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Chinchero"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834451"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ex casa hacienda de Huallhua y capilla Virgen del Rosario"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834451"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ex casa hacienda de Huallhua y capilla Virgen del Rosario"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834451"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1948019"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ex casa hacienda de Huallhua y capilla Virgen del Rosario"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Provincia de Calca"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42834451"
+        },
+        "tipo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2065736"
+        },
+        "propiedad": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valor": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3313092"
+        },
+        "itemLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ex casa hacienda de Huallhua y capilla Virgen del Rosario"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cultural heritage site in Peru"
+        },
+        "tipoLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "bien cultural"
+        },
+        "propiedadLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P276"
+        },
+        "valorLabel": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Distrito de San Salvador"
+        }
+      }
+    ]
+  }
+}

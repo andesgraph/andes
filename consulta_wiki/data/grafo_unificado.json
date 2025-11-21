@@ -1,0 +1,4572 @@
+{
+  "nodes": [
+    {
+      "id": "Q2408955",
+      "label": "Festividad de Qoyllorit'i",
+      "labels": [
+        "Festividad de Qoyllorit'i"
+      ]
+    },
+    {
+      "id": "Q205057",
+      "label": "Departamento de Cusco",
+      "labels": [
+        "Departamento de Cusco"
+      ]
+    },
+    {
+      "id": "Q25755314",
+      "label": "Gran Cruz de la Orden El Sol del Perú",
+      "labels": [
+        "Gran Cruz de la Orden El Sol del Perú"
+      ]
+    },
+    {
+      "id": "Q419",
+      "label": "Perú",
+      "labels": [
+        "Perú"
+      ]
+    },
+    {
+      "id": "Q200538",
+      "label": "fiesta",
+      "labels": [
+        "fiesta"
+      ]
+    },
+    {
+      "id": "Q110319947",
+      "label": "Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad",
+      "labels": [
+        "Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad"
+      ]
+    },
+    {
+      "id": "Q112898263",
+      "label": "WikiProyecto patrimonio cultural inmaterial",
+      "labels": [
+        "WikiProyecto patrimonio cultural inmaterial"
+      ]
+    },
+    {
+      "id": "Q60643381",
+      "label": "Fiesta de la Virgen del Carmen de Paucartambo",
+      "labels": [
+        "Fiesta de la Virgen del Carmen de Paucartambo"
+      ]
+    },
+    {
+      "id": "Q1065053",
+      "label": "Virgen del Carmen",
+      "labels": [
+        "Virgen del Carmen"
+      ]
+    },
+    {
+      "id": "Q375011",
+      "label": "festividad religiosa",
+      "labels": [
+        "festividad religiosa"
+      ]
+    },
+    {
+      "id": "Q2729",
+      "label": "17 de julio",
+      "labels": [
+        "17 de julio"
+      ]
+    },
+    {
+      "id": "Q2730",
+      "label": "18 de julio",
+      "labels": [
+        "18 de julio"
+      ]
+    },
+    {
+      "id": "Q2731",
+      "label": "16 de julio",
+      "labels": [
+        "16 de julio"
+      ]
+    },
+    {
+      "id": "Q42833695",
+      "label": "Capilla Virgen Inmaculada Concepción",
+      "labels": [
+        "Capilla Virgen Inmaculada Concepción"
+      ]
+    },
+    {
+      "id": "Q2065736",
+      "label": "bien cultural",
+      "labels": [
+        "bien cultural"
+      ]
+    },
+    {
+      "id": "Q1920482",
+      "label": "Provincia de Anta",
+      "labels": [
+        "Provincia de Anta"
+      ]
+    },
+    {
+      "id": "Q3825462",
+      "label": "Distrito de Anta",
+      "labels": [
+        "Distrito de Anta"
+      ]
+    },
+    {
+      "id": "Q42834609",
+      "label": "Iglesia Virgen de las Nieves de Sangarará",
+      "labels": [
+        "Iglesia Virgen de las Nieves de Sangarará"
+      ]
+    },
+    {
+      "id": "Q1920602",
+      "label": "Provincia de Acomayo",
+      "labels": [
+        "Provincia de Acomayo"
+      ]
+    },
+    {
+      "id": "Q2718575",
+      "label": "Distrito de Sangarará",
+      "labels": [
+        "Distrito de Sangarará"
+      ]
+    },
+    {
+      "id": "Q42835067",
+      "label": "Templo de Nuestra Señora de la Asunción",
+      "labels": [
+        "Templo de Nuestra Señora de la Asunción"
+      ]
+    },
+    {
+      "id": "Q2718526",
+      "label": "Distrito de Rondocan",
+      "labels": [
+        "Distrito de Rondocan"
+      ]
+    },
+    {
+      "id": "Q42835562",
+      "label": "Templo del Señor de la Exaltación",
+      "labels": [
+        "Templo del Señor de la Exaltación"
+      ]
+    },
+    {
+      "id": "Q1920500",
+      "label": "Provincia de Canas",
+      "labels": [
+        "Provincia de Canas"
+      ]
+    },
+    {
+      "id": "Q3312971",
+      "label": "Distrito de Quehue",
+      "labels": [
+        "Distrito de Quehue"
+      ]
+    },
+    {
+      "id": "Q42836531",
+      "label": "Templo Santo Domingo de Sanka",
+      "labels": [
+        "Templo Santo Domingo de Sanka"
+      ]
+    },
+    {
+      "id": "Q42836561",
+      "label": "Templo Santo Tomas de Aquino",
+      "labels": [
+        "Templo Santo Tomas de Aquino"
+      ]
+    },
+    {
+      "id": "Q3001637",
+      "label": "Convento de Santo Domingo",
+      "labels": [
+        "Convento de Santo Domingo"
+      ]
+    },
+    {
+      "id": "Q16970",
+      "label": "iglesia",
+      "labels": [
+        "iglesia"
+      ]
+    },
+    {
+      "id": "Q1128397",
+      "label": "convento",
+      "labels": [
+        "convento"
+      ]
+    },
+    {
+      "id": "Q1132101",
+      "label": "Provincia de Cuzco",
+      "labels": [
+        "Provincia de Cuzco"
+      ]
+    },
+    {
+      "id": "Q5582862",
+      "label": "Cuzco",
+      "labels": [
+        "Cuzco"
+      ]
+    },
+    {
+      "id": "Q2723621",
+      "label": "Distrito de Cusco",
+      "labels": [
+        "Distrito de Cusco"
+      ]
+    },
+    {
+      "id": "Q10858554",
+      "label": "Señor de los Temblores",
+      "labels": [
+        "Señor de los Temblores"
+      ]
+    },
+    {
+      "id": "Q130719847",
+      "label": "advocacion cristífera",
+      "labels": [
+        "advocacion cristífera"
+      ]
+    },
+    {
+      "id": "Q2942242",
+      "label": "Catedral del Cusco",
+      "labels": [
+        "Catedral del Cusco"
+      ]
+    },
+    {
+      "id": "Q42835698",
+      "label": "Templo Nuestra Señora Asunta de Pampacucho",
+      "labels": [
+        "Templo Nuestra Señora Asunta de Pampacucho"
+      ]
+    },
+    {
+      "id": "Q1920613",
+      "label": "Provincia de Paruro",
+      "labels": [
+        "Provincia de Paruro"
+      ]
+    },
+    {
+      "id": "Q3312249",
+      "label": "Distrito de Colcha",
+      "labels": [
+        "Distrito de Colcha"
+      ]
+    },
+    {
+      "id": "Q42836586",
+      "label": "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal",
+      "labels": [
+        "Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal"
+      ]
+    },
+    {
+      "id": "Q1948019",
+      "label": "Provincia de Calca",
+      "labels": [
+        "Provincia de Calca"
+      ]
+    },
+    {
+      "id": "Q3312892",
+      "label": "Distrito de Lares",
+      "labels": [
+        "Distrito de Lares"
+      ]
+    },
+    {
+      "id": "Q131344185",
+      "label": "Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)",
+      "labels": [
+        "Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)"
+      ]
+    },
+    {
+      "id": "Q3305213",
+      "label": "pintura",
+      "labels": [
+        "pintura"
+      ]
+    },
+    {
+      "id": "Q54800990",
+      "label": "Museo Histórico Regional de Cusco",
+      "labels": [
+        "Museo Histórico Regional de Cusco"
+      ]
+    },
+    {
+      "id": "Q42832097",
+      "label": "iglesia de la Natividad de la Virgen",
+      "labels": [
+        "iglesia de la Natividad de la Virgen"
+      ]
+    },
+    {
+      "id": "Q1073654",
+      "label": "Distrito de Chinchero",
+      "labels": [
+        "Distrito de Chinchero"
+      ]
+    },
+    {
+      "id": "Q26764442",
+      "label": "Chinchero",
+      "labels": [
+        "Chinchero"
+      ]
+    },
+    {
+      "id": "Q42834451",
+      "label": "Ex casa hacienda de Huallhua y capilla Virgen del Rosario",
+      "labels": [
+        "Ex casa hacienda de Huallhua y capilla Virgen del Rosario"
+      ]
+    },
+    {
+      "id": "Q3313092",
+      "label": "Distrito de San Salvador",
+      "labels": [
+        "Distrito de San Salvador"
+      ]
+    },
+    {
+      "id": "Q2003624",
+      "label": "Tipón",
+      "labels": [
+        "Tipón"
+      ]
+    },
+    {
+      "id": "Q839954",
+      "label": "yacimiento arqueológico",
+      "labels": [
+        "yacimiento arqueológico"
+      ]
+    },
+    {
+      "id": "Q1920520",
+      "label": "Provincia de Quispicanchi",
+      "labels": [
+        "Provincia de Quispicanchi"
+      ]
+    },
+    {
+      "id": "Q3313067",
+      "label": "Distrito de Oropesa",
+      "labels": [
+        "Distrito de Oropesa"
+      ]
+    },
+    {
+      "id": "Q15949935",
+      "label": "Waqrapukara",
+      "labels": [
+        "Waqrapukara"
+      ]
+    },
+    {
+      "id": "Q591626",
+      "label": "Distrito de Acos",
+      "labels": [
+        "Distrito de Acos"
+      ]
+    },
+    {
+      "id": "Q42825898",
+      "label": "Capilla de Santa Barbara de Acomayo",
+      "labels": [
+        "Capilla de Santa Barbara de Acomayo"
+      ]
+    },
+    {
+      "id": "Q2718491",
+      "label": "Distrito de Acomayo",
+      "labels": [
+        "Distrito de Acomayo"
+      ]
+    },
+    {
+      "id": "Q42825969",
+      "label": "Iglesia de Belén de Acomayo",
+      "labels": [
+        "Iglesia de Belén de Acomayo"
+      ]
+    },
+    {
+      "id": "Q42826054",
+      "label": "Iglesia parroquial de San Agustín de Pomacanchi",
+      "labels": [
+        "Iglesia parroquial de San Agustín de Pomacanchi"
+      ]
+    },
+    {
+      "id": "Q42826110",
+      "label": "Molino de San Cristóbal de Acomayo o molino de los Incas",
+      "labels": [
+        "Molino de San Cristóbal de Acomayo o molino de los Incas"
+      ]
+    },
+    {
+      "id": "Q42826170",
+      "label": "Molino de la creación o Uyfita molina",
+      "labels": [
+        "Molino de la creación o Uyfita molina"
+      ]
+    },
+    {
+      "id": "Q42826225",
+      "label": "Iglesia parroquial de Mosoc Llacta",
+      "labels": [
+        "Iglesia parroquial de Mosoc Llacta"
+      ]
+    },
+    {
+      "id": "Q2488809",
+      "label": "Distrito de Mosoc Llacta",
+      "labels": [
+        "Distrito de Mosoc Llacta"
+      ]
+    },
+    {
+      "id": "Q42826347",
+      "label": "Iglesia de Langui",
+      "labels": [
+        "Iglesia de Langui"
+      ]
+    },
+    {
+      "id": "Q3312918",
+      "label": "Distrito de Langui",
+      "labels": [
+        "Distrito de Langui"
+      ]
+    },
+    {
+      "id": "Q42826401",
+      "label": "Iglesia de Pampamarca",
+      "labels": [
+        "Iglesia de Pampamarca"
+      ]
+    },
+    {
+      "id": "Q3312952",
+      "label": "Distrito de Pampamarca",
+      "labels": [
+        "Distrito de Pampamarca"
+      ]
+    },
+    {
+      "id": "Q42826457",
+      "label": "Puente de Qeswachaca de Quehue",
+      "labels": [
+        "Puente de Qeswachaca de Quehue"
+      ]
+    },
+    {
+      "id": "Q42831358",
+      "label": "Iglesia de San Pedro apóstol de Andahuaylillas",
+      "labels": [
+        "Iglesia de San Pedro apóstol de Andahuaylillas"
+      ]
+    },
+    {
+      "id": "Q2846059",
+      "label": "Distrito de Andahuaylillas",
+      "labels": [
+        "Distrito de Andahuaylillas"
+      ]
+    },
+    {
+      "id": "Q42831409",
+      "label": "Capilla de Canincunca",
+      "labels": [
+        "Capilla de Canincunca"
+      ]
+    },
+    {
+      "id": "Q3313115",
+      "label": "Distrito de Huaro",
+      "labels": [
+        "Distrito de Huaro"
+      ]
+    },
+    {
+      "id": "Q42831466",
+      "label": "Iglesia de Huaro",
+      "labels": [
+        "Iglesia de Huaro"
+      ]
+    },
+    {
+      "id": "Q42831611",
+      "label": "Iglesia de Oropesa",
+      "labels": [
+        "Iglesia de Oropesa"
+      ]
+    },
+    {
+      "id": "Q42831659",
+      "label": "Casa Hacienda de Callapucyo",
+      "labels": [
+        "Casa Hacienda de Callapucyo"
+      ]
+    },
+    {
+      "id": "Q42831708",
+      "label": "Casa Hacienda del Marques de Valle Umbroso",
+      "labels": [
+        "Casa Hacienda del Marques de Valle Umbroso"
+      ]
+    },
+    {
+      "id": "Q42831764",
+      "label": "Plaza principal y calles del pueblo de Quiquijana",
+      "labels": [
+        "Plaza principal y calles del pueblo de Quiquijana"
+      ]
+    },
+    {
+      "id": "Q3312532",
+      "label": "Distrito de Quiquijana",
+      "labels": [
+        "Distrito de Quiquijana"
+      ]
+    },
+    {
+      "id": "Q42831821",
+      "label": "Capilla de Quiquijana",
+      "labels": [
+        "Capilla de Quiquijana"
+      ]
+    },
+    {
+      "id": "Q42831882",
+      "label": "Iglesia parroquial de Quiquijana",
+      "labels": [
+        "Iglesia parroquial de Quiquijana"
+      ]
+    },
+    {
+      "id": "Q42831947",
+      "label": "Antiguo puente sobre el rio Vilcanota (restos)",
+      "labels": [
+        "Antiguo puente sobre el rio Vilcanota (restos)"
+      ]
+    },
+    {
+      "id": "Q42831993",
+      "label": "Iglesia de Urcos",
+      "labels": [
+        "Iglesia de Urcos"
+      ]
+    },
+    {
+      "id": "Q934601",
+      "label": "Distrito de Urcos",
+      "labels": [
+        "Distrito de Urcos"
+      ]
+    },
+    {
+      "id": "Q42833188",
+      "label": "Capilla de Kuchuwasi, torre exenta, atrio frontal con barda perimetral y cementerio con barda perimetral",
+      "labels": [
+        "Capilla de Kuchuwasi, torre exenta, atrio frontal con barda perimetral y cementerio con barda perimetral"
+      ]
+    },
+    {
+      "id": "Q3312165",
+      "label": "Distrito de Ocongate",
+      "labels": [
+        "Distrito de Ocongate"
+      ]
+    },
+    {
+      "id": "Q42833307",
+      "label": "Capilla de Markjo",
+      "labels": [
+        "Capilla de Markjo"
+      ]
+    },
+    {
+      "id": "Q42833413",
+      "label": "Capilla de Tayankani",
+      "labels": [
+        "Capilla de Tayankani"
+      ]
+    },
+    {
+      "id": "Q3312947",
+      "label": "Distrito de Ccarhuayo",
+      "labels": [
+        "Distrito de Ccarhuayo"
+      ]
+    },
+    {
+      "id": "Q42833635",
+      "label": "Capilla Santa Rosa de Lima de Choquepata",
+      "labels": [
+        "Capilla Santa Rosa de Lima de Choquepata"
+      ]
+    },
+    {
+      "id": "Q42833816",
+      "label": "Casa cabildo Zurite",
+      "labels": [
+        "Casa cabildo Zurite"
+      ]
+    },
+    {
+      "id": "Q3825754",
+      "label": "Distrito de Zurite",
+      "labels": [
+        "Distrito de Zurite"
+      ]
+    },
+    {
+      "id": "Q42833994",
+      "label": "Casa de José Gabriel Condorcanqui",
+      "labels": [
+        "Casa de José Gabriel Condorcanqui"
+      ]
+    },
+    {
+      "id": "Q3312517",
+      "label": "Túpac Amaru",
+      "labels": [
+        "Túpac Amaru"
+      ]
+    },
+    {
+      "id": "Q42834109",
+      "label": "Casa Hacienda Anderes",
+      "labels": [
+        "Casa Hacienda Anderes"
+      ]
+    },
+    {
+      "id": "Q42834961",
+      "label": "Templo de Huayllacocha",
+      "labels": [
+        "Templo de Huayllacocha"
+      ]
+    },
+    {
+      "id": "Q3313271",
+      "label": "Distrito de Huarocondo",
+      "labels": [
+        "Distrito de Huarocondo"
+      ]
+    },
+    {
+      "id": "Q42835128",
+      "label": "Templo de San Francisco de Asis de Marcapata (incluye el atrio cercado y la torre exenta)",
+      "labels": [
+        "Templo de San Francisco de Asis de Marcapata (incluye el atrio cercado y la torre exenta)"
+      ]
+    },
+    {
+      "id": "Q3312576",
+      "label": "Distrito de Marcapata",
+      "labels": [
+        "Distrito de Marcapata"
+      ]
+    },
+    {
+      "id": "Q42835334",
+      "label": "Templo de San Nicolas de Bari",
+      "labels": [
+        "Templo de San Nicolas de Bari"
+      ]
+    },
+    {
+      "id": "Q42835523",
+      "label": "Templo de Tungasuca",
+      "labels": [
+        "Templo de Tungasuca"
+      ]
+    },
+    {
+      "id": "Q42835593",
+      "label": "Templo Inmaculada Concepción, torre exenta, arco de acceso al atrio, cruz atrial, atrio frontal y areas libres laterales y posterior",
+      "labels": [
+        "Templo Inmaculada Concepción, torre exenta, arco de acceso al atrio, cruz atrial, atrio frontal y areas libres laterales y posterior"
+      ]
+    },
+    {
+      "id": "Q967582",
+      "label": "Distrito de Pomacanchi",
+      "labels": [
+        "Distrito de Pomacanchi"
+      ]
+    },
+    {
+      "id": "Q42835766",
+      "label": "Templo patrón San Jerónimo, cruz atrial, atrio frontal y áreas libres laterales y posterior",
+      "labels": [
+        "Templo patrón San Jerónimo, cruz atrial, atrio frontal y áreas libres laterales y posterior"
+      ]
+    },
+    {
+      "id": "Q938103",
+      "label": "Distrito de Acopía",
+      "labels": [
+        "Distrito de Acopía"
+      ]
+    },
+    {
+      "id": "Q42835842",
+      "label": "Templo San Francisco de Asis de Huayqui y torre exenta ubicada fuera de la plaza",
+      "labels": [
+        "Templo San Francisco de Asis de Huayqui y torre exenta ubicada fuera de la plaza"
+      ]
+    },
+    {
+      "id": "Q42835919",
+      "label": "Templo San Juan Bautista de Ccatcca y torre campanario exenta",
+      "labels": [
+        "Templo San Juan Bautista de Ccatcca y torre campanario exenta"
+      ]
+    },
+    {
+      "id": "Q3312493",
+      "label": "Distrito de Ccatca",
+      "labels": [
+        "Distrito de Ccatca"
+      ]
+    },
+    {
+      "id": "Q42835962",
+      "label": "Templo San Juan Bautista de Pomacanchi, torre exenta con barda y arco de acceso adyacentes, atrio frontal y lateral",
+      "labels": [
+        "Templo San Juan Bautista de Pomacanchi, torre exenta con barda y arco de acceso adyacentes, atrio frontal y lateral"
+      ]
+    },
+    {
+      "id": "Q42836000",
+      "label": "Templo San Martín obispo de Tours",
+      "labels": [
+        "Templo San Martín obispo de Tours"
+      ]
+    },
+    {
+      "id": "Q42836071",
+      "label": "Templo San Miguel de Acos",
+      "labels": [
+        "Templo San Miguel de Acos"
+      ]
+    },
+    {
+      "id": "Q42836103",
+      "label": "Templo San Pablo apostol de Ocongate",
+      "labels": [
+        "Templo San Pablo apostol de Ocongate"
+      ]
+    },
+    {
+      "id": "Q42836241",
+      "label": "Templo Santa Lucia de Pomacanchi",
+      "labels": [
+        "Templo Santa Lucia de Pomacanchi"
+      ]
+    },
+    {
+      "id": "Q42836337",
+      "label": "Templo Santiago apostol de Corma",
+      "labels": [
+        "Templo Santiago apostol de Corma"
+      ]
+    },
+    {
+      "id": "Q42836373",
+      "label": "Templo Santiago apóstol de Kuñotambo",
+      "labels": [
+        "Templo Santiago apóstol de Kuñotambo"
+      ]
+    },
+    {
+      "id": "Q1360456",
+      "label": "Tambomachay",
+      "labels": [
+        "Tambomachay"
+      ]
+    },
+    {
+      "id": "Q1341387",
+      "label": "balneario",
+      "labels": [
+        "balneario"
+      ]
+    },
+    {
+      "id": "Q2390374",
+      "label": "Puca Pucara",
+      "labels": [
+        "Puca Pucara"
+      ]
+    },
+    {
+      "id": "Q2977",
+      "label": "catedral",
+      "labels": [
+        "catedral"
+      ]
+    },
+    {
+      "id": "Q120560",
+      "label": "basílica menor",
+      "labels": [
+        "basílica menor"
+      ]
+    },
+    {
+      "id": "Q570116",
+      "label": "atracción turística",
+      "labels": [
+        "atracción turística"
+      ]
+    },
+    {
+      "id": "Q162691",
+      "label": "Asunción de María",
+      "labels": [
+        "Asunción de María"
+      ]
+    },
+    {
+      "id": "Q5738212",
+      "label": "Cabildo del Cuzco",
+      "labels": [
+        "Cabildo del Cuzco"
+      ]
+    },
+    {
+      "id": "Q9172888",
+      "label": "batalla de Combapata",
+      "labels": [
+        "batalla de Combapata"
+      ]
+    },
+    {
+      "id": "Q178561",
+      "label": "batalla",
+      "labels": [
+        "batalla"
+      ]
+    },
+    {
+      "id": "Q3312913",
+      "label": "Distrito de Combapata",
+      "labels": [
+        "Distrito de Combapata"
+      ]
+    },
+    {
+      "id": "Q1806552",
+      "label": "rebelión de Túpac Amaru II",
+      "labels": [
+        "rebelión de Túpac Amaru II"
+      ]
+    },
+    {
+      "id": "Q10974742",
+      "label": "iglesia de la Compañía",
+      "labels": [
+        "iglesia de la Compañía"
+      ]
+    },
+    {
+      "id": "Q56395672",
+      "label": "iglesia jesuítica",
+      "labels": [
+        "iglesia jesuítica"
+      ]
+    },
+    {
+      "id": "Q26905493",
+      "label": "iglesia de San Sebastián",
+      "labels": [
+        "iglesia de San Sebastián"
+      ]
+    },
+    {
+      "id": "Q3322708",
+      "label": "Distrito de San Sebastián",
+      "labels": [
+        "Distrito de San Sebastián"
+      ]
+    },
+    {
+      "id": "Q42826529",
+      "label": "Iglesia de Combapata",
+      "labels": [
+        "Iglesia de Combapata"
+      ]
+    },
+    {
+      "id": "Q951287",
+      "label": "Provincia de Canchis",
+      "labels": [
+        "Provincia de Canchis"
+      ]
+    },
+    {
+      "id": "Q42826588",
+      "label": "Puente sobre el río Salcca",
+      "labels": [
+        "Puente sobre el río Salcca"
+      ]
+    },
+    {
+      "id": "Q42826647",
+      "label": "Iglesia de Checacupe",
+      "labels": [
+        "Iglesia de Checacupe"
+      ]
+    },
+    {
+      "id": "Q3312597",
+      "label": "Distrito de Checacupe",
+      "labels": [
+        "Distrito de Checacupe"
+      ]
+    },
+    {
+      "id": "Q42826703",
+      "label": "Iglesia de Marangani",
+      "labels": [
+        "Iglesia de Marangani"
+      ]
+    },
+    {
+      "id": "Q3312558",
+      "label": "Distrito de Maranganí",
+      "labels": [
+        "Distrito de Maranganí"
+      ]
+    },
+    {
+      "id": "Q42826763",
+      "label": "Iglesia matriz de Sicuani",
+      "labels": [
+        "Iglesia matriz de Sicuani"
+      ]
+    },
+    {
+      "id": "Q2608412",
+      "label": "Distrito de Sicuani",
+      "labels": [
+        "Distrito de Sicuani"
+      ]
+    },
+    {
+      "id": "Q42826830",
+      "label": "Casa quinta de Manzanares",
+      "labels": [
+        "Casa quinta de Manzanares"
+      ]
+    },
+    {
+      "id": "Q42826912",
+      "label": "Iglesia de Tinta",
+      "labels": [
+        "Iglesia de Tinta"
+      ]
+    },
+    {
+      "id": "Q3322654",
+      "label": "Distrito de Tinta",
+      "labels": [
+        "Distrito de Tinta"
+      ]
+    },
+    {
+      "id": "Q42826974",
+      "label": "Calles y plazas en la zona monumental del Cuzco",
+      "labels": [
+        "Calles y plazas en la zona monumental del Cuzco"
+      ]
+    },
+    {
+      "id": "Q42834849",
+      "label": "Templo de Antapallpa",
+      "labels": [
+        "Templo de Antapallpa"
+      ]
+    },
+    {
+      "id": "Q2893883",
+      "label": "Distrito de Omacha",
+      "labels": [
+        "Distrito de Omacha"
+      ]
+    },
+    {
+      "id": "Q42834907",
+      "label": "Templo de Hanansaya",
+      "labels": [
+        "Templo de Hanansaya"
+      ]
+    },
+    {
+      "id": "Q3312865",
+      "label": "Distrito de Accha",
+      "labels": [
+        "Distrito de Accha"
+      ]
+    },
+    {
+      "id": "Q42835013",
+      "label": "Templo de Hurinsaya",
+      "labels": [
+        "Templo de Hurinsaya"
+      ]
+    },
+    {
+      "id": "Q42835232",
+      "label": "Templo de San Juan Bautista de Colcha",
+      "labels": [
+        "Templo de San Juan Bautista de Colcha"
+      ]
+    },
+    {
+      "id": "Q42835280",
+      "label": "Templo de San Lorenzo",
+      "labels": [
+        "Templo de San Lorenzo"
+      ]
+    },
+    {
+      "id": "Q42835444",
+      "label": "Templo de Santa Lucia de Pichigua, atrio frontal y espacios laterales y posterior que lo rodean",
+      "labels": [
+        "Templo de Santa Lucia de Pichigua, atrio frontal y espacios laterales y posterior que lo rodean"
+      ]
+    },
+    {
+      "id": "Q1947973",
+      "label": "Provincia de Espinar",
+      "labels": [
+        "Provincia de Espinar"
+      ]
+    },
+    {
+      "id": "Q3321976",
+      "label": "Distrito de Pichigua",
+      "labels": [
+        "Distrito de Pichigua"
+      ]
+    },
+    {
+      "id": "Q42835807",
+      "label": "Templo San Cosme y San Damian, atrio frontal y laterales, arco frontal y cerco perimetrico",
+      "labels": [
+        "Templo San Cosme y San Damian, atrio frontal y laterales, arco frontal y cerco perimetrico"
+      ]
+    },
+    {
+      "id": "Q42836203",
+      "label": "Templo Santa Ana de Yauri, conjunto religioso conformado por templo, y torre exenta",
+      "labels": [
+        "Templo Santa Ana de Yauri, conjunto religioso conformado por templo, y torre exenta"
+      ]
+    },
+    {
+      "id": "Q3314065",
+      "label": "Distrito de Yauri",
+      "labels": [
+        "Distrito de Yauri"
+      ]
+    },
+    {
+      "id": "Q42836273",
+      "label": "Templo Santa Maria Magdalena de Taray",
+      "labels": [
+        "Templo Santa Maria Magdalena de Taray"
+      ]
+    },
+    {
+      "id": "Q3313110",
+      "label": "Distrito de Taray",
+      "labels": [
+        "Distrito de Taray"
+      ]
+    },
+    {
+      "id": "Q42836407",
+      "label": "Templo Santiago apostol de Lamay",
+      "labels": [
+        "Templo Santiago apostol de Lamay"
+      ]
+    },
+    {
+      "id": "Q3312884",
+      "label": "Distrito de Lamay",
+      "labels": [
+        "Distrito de Lamay"
+      ]
+    },
+    {
+      "id": "Q42836500",
+      "label": "Templo Santísima Trinidad de Misca",
+      "labels": [
+        "Templo Santísima Trinidad de Misca"
+      ]
+    },
+    {
+      "id": "Q921913",
+      "label": "Distrito de Paruro",
+      "labels": [
+        "Distrito de Paruro"
+      ]
+    },
+    {
+      "id": "Q676203",
+      "label": "Machu Picchu",
+      "labels": [
+        "Machu Picchu"
+      ]
+    },
+    {
+      "id": "Q15661340",
+      "label": "ciudad antigua",
+      "labels": [
+        "ciudad antigua"
+      ]
+    },
+    {
+      "id": "Q1771879",
+      "label": "Provincia de Urubamba",
+      "labels": [
+        "Provincia de Urubamba"
+      ]
+    },
+    {
+      "id": "Q397990",
+      "label": "Aguas Calientes",
+      "labels": [
+        "Aguas Calientes"
+      ]
+    },
+    {
+      "id": "Q3331815",
+      "label": "Santuario histórico de Machu Picchu",
+      "labels": [
+        "Santuario histórico de Machu Picchu"
+      ]
+    },
+    {
+      "id": "Q2338093",
+      "label": "Batalla de Jaquijahuana",
+      "labels": [
+        "Batalla de Jaquijahuana"
+      ]
+    },
+    {
+      "id": "Q828336",
+      "label": "Saqsaywaman",
+      "labels": [
+        "Saqsaywaman"
+      ]
+    },
+    {
+      "id": "Q5884503",
+      "label": "Gran Rebelión de Encomenderos",
+      "labels": [
+        "Gran Rebelión de Encomenderos"
+      ]
+    },
+    {
+      "id": "Q4872293",
+      "label": "batalla de Sangarará",
+      "labels": [
+        "batalla de Sangarará"
+      ]
+    },
+    {
+      "id": "Q7417854",
+      "label": "Sangarará",
+      "labels": [
+        "Sangarará"
+      ]
+    },
+    {
+      "id": "Q5055825",
+      "label": "batalla de Sacsayhuaman",
+      "labels": [
+        "batalla de Sacsayhuaman"
+      ]
+    },
+    {
+      "id": "Q636771",
+      "label": "Conquista del Imperio Inca",
+      "labels": [
+        "Conquista del Imperio Inca"
+      ]
+    },
+    {
+      "id": "Q9172756",
+      "label": "batalla de Urcos",
+      "labels": [
+        "batalla de Urcos"
+      ]
+    },
+    {
+      "id": "Q2989619",
+      "label": "Urcos",
+      "labels": [
+        "Urcos"
+      ]
+    },
+    {
+      "id": "Q16618903",
+      "label": "Piedra de los doce ángulos",
+      "labels": [
+        "Piedra de los doce ángulos"
+      ]
+    },
+    {
+      "id": "Q22731",
+      "label": "piedra",
+      "labels": [
+        "piedra"
+      ]
+    },
+    {
+      "id": "Q618123",
+      "label": "característica geográfica",
+      "labels": [
+        "característica geográfica"
+      ]
+    },
+    {
+      "id": "Q5892811",
+      "label": "Hatun Rumiyoc",
+      "labels": [
+        "Hatun Rumiyoc"
+      ]
+    },
+    {
+      "id": "Q42826285",
+      "label": "Iglesia de Calca",
+      "labels": [
+        "Iglesia de Calca"
+      ]
+    },
+    {
+      "id": "Q3312974",
+      "label": "Distrito de Calca",
+      "labels": [
+        "Distrito de Calca"
+      ]
+    },
+    {
+      "id": "Q42830962",
+      "label": "Iglesia de San Francisco de Asís de la comunidad de Apachacco",
+      "labels": [
+        "Iglesia de San Francisco de Asís de la comunidad de Apachacco"
+      ]
+    },
+    {
+      "id": "Q3315216",
+      "label": "Distrito de Coporaque",
+      "labels": [
+        "Distrito de Coporaque"
+      ]
+    },
+    {
+      "id": "Q42831023",
+      "label": "Iglesia parroquial de Huanoquite",
+      "labels": [
+        "Iglesia parroquial de Huanoquite"
+      ]
+    },
+    {
+      "id": "Q3312396",
+      "label": "Distrito de Huanoquite",
+      "labels": [
+        "Distrito de Huanoquite"
+      ]
+    },
+    {
+      "id": "Q42831073",
+      "label": "Plaza mayor de Paccaritambo",
+      "labels": [
+        "Plaza mayor de Paccaritambo"
+      ]
+    },
+    {
+      "id": "Q3312608",
+      "label": "Distrito de Paccaritambo",
+      "labels": [
+        "Distrito de Paccaritambo"
+      ]
+    },
+    {
+      "id": "Q42831120",
+      "label": "Iglesia de Paccaritambo",
+      "labels": [
+        "Iglesia de Paccaritambo"
+      ]
+    },
+    {
+      "id": "Q42831169",
+      "label": "Iglesia de San Esteban de Yaurisque",
+      "labels": [
+        "Iglesia de San Esteban de Yaurisque"
+      ]
+    },
+    {
+      "id": "Q3312939",
+      "label": "Distrito de Yaurisque",
+      "labels": [
+        "Distrito de Yaurisque"
+      ]
+    },
+    {
+      "id": "Q42832721",
+      "label": "Huch'uy Qusqu",
+      "labels": [
+        "Huch'uy Qusqu"
+      ]
+    },
+    {
+      "id": "Q42833245",
+      "label": "Capilla de la comunidad campesina de Pircca",
+      "labels": [
+        "Capilla de la comunidad campesina de Pircca"
+      ]
+    },
+    {
+      "id": "Q42833523",
+      "label": "Capilla San Antonio de Padua",
+      "labels": [
+        "Capilla San Antonio de Padua"
+      ]
+    },
+    {
+      "id": "Q42834323",
+      "label": "Conj. religioso conformado por el templo San Juan Bautista de Coporaque, la capilla San Miguel Arcangel, la torre exenta, la barda perimetral, el atrio lateral con frente hacia la plaza y atrio frontal",
+      "labels": [
+        "Conj. religioso conformado por el templo San Juan Bautista de Coporaque, la capilla San Miguel Arcangel, la torre exenta, la barda perimetral, el atrio lateral con frente hacia la plaza y atrio frontal"
+      ]
+    },
+    {
+      "id": "Q42834561",
+      "label": "Iglesia patrón San Salvador del Mundo",
+      "labels": [
+        "Iglesia patrón San Salvador del Mundo"
+      ]
+    },
+    {
+      "id": "Q106314740",
+      "label": "vías públicas en un área",
+      "labels": [
+        "vías públicas en un área"
+      ]
+    },
+    {
+      "id": "Q42827039",
+      "label": "Lucre calle",
+      "labels": [
+        "Lucre calle"
+      ]
+    },
+    {
+      "id": "Q42827108",
+      "label": "Calle de acceso a Mesa Redonda",
+      "labels": [
+        "Calle de acceso a Mesa Redonda"
+      ]
+    },
+    {
+      "id": "Q42827174",
+      "label": "Calle de Recoleta",
+      "labels": [
+        "Calle de Recoleta"
+      ]
+    },
+    {
+      "id": "Q42827242",
+      "label": "Calle del Retiro (Qquenqo Mayo)",
+      "labels": [
+        "Calle del Retiro (Qquenqo Mayo)"
+      ]
+    },
+    {
+      "id": "Q42827318",
+      "label": "Plaza de la Almudena del Cuzco",
+      "labels": [
+        "Plaza de la Almudena del Cuzco"
+      ]
+    },
+    {
+      "id": "Q42827372",
+      "label": "Plaza de Belén del Cuzco",
+      "labels": [
+        "Plaza de Belén del Cuzco"
+      ]
+    },
+    {
+      "id": "Q42827429",
+      "label": "Plaza de Santiago del Cuzco",
+      "labels": [
+        "Plaza de Santiago del Cuzco"
+      ]
+    },
+    {
+      "id": "Q42827490",
+      "label": "Plazuela de la Recoleta del Cuzco",
+      "labels": [
+        "Plazuela de la Recoleta del Cuzco"
+      ]
+    },
+    {
+      "id": "Q42827558",
+      "label": "Iglesia, hospital y convento de la Almudena del Cuzco",
+      "labels": [
+        "Iglesia, hospital y convento de la Almudena del Cuzco"
+      ]
+    },
+    {
+      "id": "Q42827844",
+      "label": "Iglesia de Loreto del Cuzco",
+      "labels": [
+        "Iglesia de Loreto del Cuzco"
+      ]
+    },
+    {
+      "id": "Q3804600",
+      "label": "Iuma",
+      "labels": [
+        "Iuma"
+      ]
+    },
+    {
+      "id": "Q30914346",
+      "label": "Festividad PerúBA",
+      "labels": [
+        "Festividad PerúBA"
+      ]
+    },
+    {
+      "id": "Q99209774",
+      "label": "Día del Cajón Peruano",
+      "labels": [
+        "Día del Cajón Peruano"
+      ]
+    },
+    {
+      "id": "Q3010205",
+      "label": "celebración",
+      "labels": [
+        "celebración"
+      ]
+    },
+    {
+      "id": "Q99211395",
+      "label": "Día de la Medicina Peruana",
+      "labels": [
+        "Día de la Medicina Peruana"
+      ]
+    },
+    {
+      "id": "Q99317470",
+      "label": "Día de la Enfermería Peruana",
+      "labels": [
+        "Día de la Enfermería Peruana"
+      ]
+    },
+    {
+      "id": "Q118113506",
+      "label": "Día Internacional de los Trabajadores en Perú 2023",
+      "labels": [
+        "Día Internacional de los Trabajadores en Perú 2023"
+      ]
+    },
+    {
+      "id": "Q118395687",
+      "label": "Raymi Llacta",
+      "labels": [
+        "Raymi Llacta"
+      ]
+    },
+    {
+      "id": "Q5447343",
+      "label": "Fiestas Patrias en el Perú",
+      "labels": [
+        "Fiestas Patrias en el Perú"
+      ]
+    },
+    {
+      "id": "Q68478",
+      "label": "Guerra de Independencia de Perú",
+      "labels": [
+        "Guerra de Independencia de Perú"
+      ]
+    },
+    {
+      "id": "Q5861783",
+      "label": "Fiesta internacional de teatro en calles abiertas",
+      "labels": [
+        "Fiesta internacional de teatro en calles abiertas"
+      ]
+    },
+    {
+      "id": "Q5221455",
+      "label": "Danza de las tijeras",
+      "labels": [
+        "Danza de las tijeras"
+      ]
+    },
+    {
+      "id": "Q201022",
+      "label": "danza folclórica",
+      "labels": [
+        "danza folclórica"
+      ]
+    },
+    {
+      "id": "Q7171186",
+      "label": "Danzas del Perú",
+      "labels": [
+        "Danzas del Perú"
+      ]
+    },
+    {
+      "id": "Q17176998",
+      "label": "danza amerindia",
+      "labels": [
+        "danza amerindia"
+      ]
+    },
+    {
+      "id": "Q2717",
+      "label": "29 de julio",
+      "labels": [
+        "29 de julio"
+      ]
+    },
+    {
+      "id": "Q2718",
+      "label": "28 de julio",
+      "labels": [
+        "28 de julio"
+      ]
+    },
+    {
+      "id": "Q5799139",
+      "label": "Danza de Negritos y Las Pallitas",
+      "labels": [
+        "Danza de Negritos y Las Pallitas"
+      ]
+    },
+    {
+      "id": "Q11639",
+      "label": "danza",
+      "labels": [
+        "danza"
+      ]
+    },
+    {
+      "id": "Q84036549",
+      "label": "Patrimonio Cultural Inmaterial de la Humanidad",
+      "labels": [
+        "Patrimonio Cultural Inmaterial de la Humanidad"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Q2408955",
+      "target": "Q205057",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q2408955",
+      "target": "Q25755314",
+      "property_id": "P166",
+      "property_label": "http://www.wikidata.org/prop/direct/P166"
+    },
+    {
+      "source": "Q2408955",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q2408955",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2408955",
+      "target": "Q110319947",
+      "property_id": "P3259",
+      "property_label": "http://www.wikidata.org/prop/direct/P3259"
+    },
+    {
+      "source": "Q2408955",
+      "target": "Q419",
+      "property_id": "P495",
+      "property_label": "http://www.wikidata.org/prop/direct/P495"
+    },
+    {
+      "source": "Q2408955",
+      "target": "Q112898263",
+      "property_id": "P6104",
+      "property_label": "http://www.wikidata.org/prop/direct/P6104"
+    },
+    {
+      "source": "Q60643381",
+      "target": "Q1065053",
+      "property_id": "P138",
+      "property_label": "http://www.wikidata.org/prop/direct/P138"
+    },
+    {
+      "source": "Q60643381",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q60643381",
+      "target": "Q375011",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q60643381",
+      "target": "Q2729",
+      "property_id": "P837",
+      "property_label": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "source": "Q60643381",
+      "target": "Q2730",
+      "property_id": "P837",
+      "property_label": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "source": "Q60643381",
+      "target": "Q2731",
+      "property_id": "P837",
+      "property_label": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "source": "Q42833695",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833695",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833695",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833695",
+      "target": "Q3825462",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834609",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834609",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834609",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834609",
+      "target": "Q2718575",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835067",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835067",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835067",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835067",
+      "target": "Q2718526",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835562",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835562",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835562",
+      "target": "Q1920500",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835562",
+      "target": "Q3312971",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836531",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836531",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836531",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836531",
+      "target": "Q2718526",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836561",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836561",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836561",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q3001637",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q3001637",
+      "target": "Q16970",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q3001637",
+      "target": "Q1128397",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q3001637",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q3001637",
+      "target": "Q5582862",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q3001637",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q10858554",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q10858554",
+      "target": "Q130719847",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q10858554",
+      "target": "Q2942242",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835698",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835698",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835698",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835698",
+      "target": "Q3312249",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836586",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836586",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836586",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836586",
+      "target": "Q3312892",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q131344185",
+      "target": "Q3305213",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q131344185",
+      "target": "Q54800990",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42832097",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42832097",
+      "target": "Q16970",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42832097",
+      "target": "Q1073654",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42832097",
+      "target": "Q26764442",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834451",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834451",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834451",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834451",
+      "target": "Q3313092",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q2003624",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q2003624",
+      "target": "Q839954",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2003624",
+      "target": "Q419",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q2003624",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q2003624",
+      "target": "Q3313067",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q15949935",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q15949935",
+      "target": "Q839954",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q15949935",
+      "target": "Q205057",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q15949935",
+      "target": "Q591626",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42825898",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42825898",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42825898",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42825898",
+      "target": "Q2718491",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42825969",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42825969",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42825969",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42825969",
+      "target": "Q2718491",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826054",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826054",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826054",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826054",
+      "target": "Q2718491",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826110",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826110",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826110",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826110",
+      "target": "Q2718491",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826170",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826170",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826170",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826170",
+      "target": "Q2718491",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826225",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826225",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826225",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826225",
+      "target": "Q2488809",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826347",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826347",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826347",
+      "target": "Q1920500",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826347",
+      "target": "Q3312918",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826401",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826401",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826401",
+      "target": "Q1920500",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826401",
+      "target": "Q3312952",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826457",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826457",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826457",
+      "target": "Q1920500",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826457",
+      "target": "Q3312971",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831358",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831358",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831358",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831358",
+      "target": "Q2846059",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831409",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831409",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831409",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831409",
+      "target": "Q3313115",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831466",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831466",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831466",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831466",
+      "target": "Q3313115",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831611",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831611",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831611",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831611",
+      "target": "Q3313067",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831659",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831659",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831659",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831659",
+      "target": "Q3313067",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831708",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831708",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831708",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831708",
+      "target": "Q3313067",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831764",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831764",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831764",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831764",
+      "target": "Q3312532",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831821",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831821",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831821",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831821",
+      "target": "Q3312532",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831882",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831882",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831882",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831882",
+      "target": "Q3312532",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831947",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831947",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831947",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831947",
+      "target": "Q3312532",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831993",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831993",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831993",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831993",
+      "target": "Q934601",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833188",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833188",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833188",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833188",
+      "target": "Q3312165",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833307",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833307",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833307",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833307",
+      "target": "Q3825462",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833413",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833413",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833413",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833413",
+      "target": "Q3312947",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833635",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833635",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833635",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833635",
+      "target": "Q3313067",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833816",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833816",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833816",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833816",
+      "target": "Q3825754",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833994",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833994",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833994",
+      "target": "Q1920500",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833994",
+      "target": "Q3312517",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834109",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834109",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834109",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834109",
+      "target": "Q3825754",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834961",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834961",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834961",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834961",
+      "target": "Q3313271",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835128",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835128",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835128",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835128",
+      "target": "Q3312576",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835334",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835334",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835334",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835334",
+      "target": "Q3825754",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835523",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835523",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835523",
+      "target": "Q1920500",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835523",
+      "target": "Q3312517",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835593",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835593",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835593",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835593",
+      "target": "Q967582",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835766",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835766",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835766",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835766",
+      "target": "Q938103",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835842",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835842",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835842",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835842",
+      "target": "Q591626",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835919",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835919",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835919",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835919",
+      "target": "Q3312493",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835962",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835962",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835962",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835962",
+      "target": "Q967582",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836000",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836000",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836000",
+      "target": "Q1920482",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836000",
+      "target": "Q3313271",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836071",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836071",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836071",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836071",
+      "target": "Q591626",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836103",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836103",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836103",
+      "target": "Q1920520",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836103",
+      "target": "Q3312165",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836241",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836241",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836241",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836241",
+      "target": "Q967582",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836337",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836337",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836337",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836337",
+      "target": "Q591626",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836373",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836373",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836373",
+      "target": "Q1920602",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836373",
+      "target": "Q2718526",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q1360456",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q1360456",
+      "target": "Q839954",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q1360456",
+      "target": "Q1341387",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q1360456",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q1360456",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q2390374",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q2390374",
+      "target": "Q839954",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2390374",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q2390374",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q2977",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q120560",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q570116",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q5582862",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q162691",
+      "property_id": "P138",
+      "property_label": "http://www.wikidata.org/prop/direct/P138"
+    },
+    {
+      "source": "Q2942242",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q5738212",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q5738212",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q5738212",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q5738212",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q9172888",
+      "target": "Q178561",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q9172888",
+      "target": "Q3312913",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q9172888",
+      "target": "Q1806552",
+      "property_id": "P361",
+      "property_label": "http://www.wikidata.org/prop/direct/P361"
+    },
+    {
+      "source": "Q10974742",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q10974742",
+      "target": "Q56395672",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q10974742",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q10974742",
+      "target": "Q5582862",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q10974742",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q26905493",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q26905493",
+      "target": "Q16970",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q26905493",
+      "target": "Q205057",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q26905493",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q26905493",
+      "target": "Q3322708",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826529",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826529",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826529",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826529",
+      "target": "Q3312913",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826588",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826588",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826588",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826588",
+      "target": "Q3312913",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826647",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826647",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826647",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826647",
+      "target": "Q3312597",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826703",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826703",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826703",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826703",
+      "target": "Q3312558",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826763",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826763",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826763",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826763",
+      "target": "Q2608412",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826830",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826830",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826830",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826830",
+      "target": "Q2608412",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826912",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826912",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826912",
+      "target": "Q951287",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826912",
+      "target": "Q3322654",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826974",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834849",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834849",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834849",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834849",
+      "target": "Q2893883",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834907",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834907",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834907",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834907",
+      "target": "Q3312865",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835013",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835013",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835013",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835013",
+      "target": "Q3312865",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835232",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835232",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835232",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835232",
+      "target": "Q3312249",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835280",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835280",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835280",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835280",
+      "target": "Q3312249",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835444",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835444",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835444",
+      "target": "Q1947973",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835444",
+      "target": "Q3321976",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42835807",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42835807",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42835807",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42835807",
+      "target": "Q3312892",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836203",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836203",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836203",
+      "target": "Q1947973",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836203",
+      "target": "Q3314065",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836273",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836273",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836273",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836273",
+      "target": "Q3313110",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836407",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836407",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836407",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836407",
+      "target": "Q3312884",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42836500",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42836500",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42836500",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42836500",
+      "target": "Q921913",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q570116",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q839954",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q15661340",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q205057",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q1771879",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q397990",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q676203",
+      "target": "Q3331815",
+      "property_id": "P361",
+      "property_label": "http://www.wikidata.org/prop/direct/P361"
+    },
+    {
+      "source": "Q2338093",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q2338093",
+      "target": "Q178561",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q2338093",
+      "target": "Q828336",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q2338093",
+      "target": "Q5884503",
+      "property_id": "P361",
+      "property_label": "http://www.wikidata.org/prop/direct/P361"
+    },
+    {
+      "source": "Q4872293",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q4872293",
+      "target": "Q178561",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q4872293",
+      "target": "Q7417854",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q4872293",
+      "target": "Q1806552",
+      "property_id": "P361",
+      "property_label": "http://www.wikidata.org/prop/direct/P361"
+    },
+    {
+      "source": "Q5055825",
+      "target": "Q178561",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q5055825",
+      "target": "Q828336",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q5055825",
+      "target": "Q636771",
+      "property_id": "P361",
+      "property_label": "http://www.wikidata.org/prop/direct/P361"
+    },
+    {
+      "source": "Q9172756",
+      "target": "Q178561",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q9172756",
+      "target": "Q2989619",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q9172756",
+      "target": "Q636771",
+      "property_id": "P361",
+      "property_label": "http://www.wikidata.org/prop/direct/P361"
+    },
+    {
+      "source": "Q16618903",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q16618903",
+      "target": "Q22731",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q16618903",
+      "target": "Q618123",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q16618903",
+      "target": "Q5582862",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q16618903",
+      "target": "Q5892811",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826285",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42826285",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826285",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826285",
+      "target": "Q3312974",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42830962",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42830962",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42830962",
+      "target": "Q1947973",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42830962",
+      "target": "Q3315216",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831023",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831023",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831023",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831023",
+      "target": "Q3312396",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831073",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831073",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831073",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831073",
+      "target": "Q3312608",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831120",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831120",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831120",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831120",
+      "target": "Q3312608",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42831169",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42831169",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42831169",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42831169",
+      "target": "Q3312939",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42832721",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42832721",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42832721",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42832721",
+      "target": "Q3312974",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833245",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833245",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833245",
+      "target": "Q1920613",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833245",
+      "target": "Q3312608",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42833523",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42833523",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42833523",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42833523",
+      "target": "Q3313092",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834323",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834323",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834323",
+      "target": "Q1947973",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834323",
+      "target": "Q3315216",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42834561",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42834561",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42834561",
+      "target": "Q1948019",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42834561",
+      "target": "Q3313092",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42826974",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826974",
+      "target": "Q106314740",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42826974",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42826974",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827039",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827039",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827039",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827039",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827108",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827108",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827108",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827108",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827174",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827174",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827174",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827174",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827242",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827242",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827242",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827242",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827318",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827318",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827318",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827318",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827372",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827372",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827372",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827372",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827429",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827429",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827429",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827429",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827490",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827490",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827490",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827490",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827558",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827558",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q42827558",
+      "target": "Q1132101",
+      "property_id": "P131",
+      "property_label": "http://www.wikidata.org/prop/direct/P131"
+    },
+    {
+      "source": "Q42827558",
+      "target": "Q2723621",
+      "property_id": "P276",
+      "property_label": "http://www.wikidata.org/prop/direct/P276"
+    },
+    {
+      "source": "Q42827844",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q42827844",
+      "target": "Q2065736",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q3804600",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q3804600",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q30914346",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q30914346",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q99209774",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q99209774",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q99209774",
+      "target": "Q3010205",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q99211395",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q99211395",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q99211395",
+      "target": "Q3010205",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q99317470",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q99317470",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q99317470",
+      "target": "Q3010205",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q118113506",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q118113506",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q118395687",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q118395687",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q5447343",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q5447343",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q5447343",
+      "target": "Q68478",
+      "property_id": "P138",
+      "property_label": "http://www.wikidata.org/prop/direct/P138"
+    },
+    {
+      "source": "Q5861783",
+      "target": "Q419",
+      "property_id": "P17",
+      "property_label": "http://www.wikidata.org/prop/direct/P17"
+    },
+    {
+      "source": "Q5861783",
+      "target": "Q200538",
+      "property_id": "P31",
+      "property_label": "http://www.wikidata.org/prop/direct/P31"
+    },
+    {
+      "source": "Q5221455",
+      "target": "Q201022",
+      "property_id": "P279",
+      "property_label": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "source": "Q5221455",
+      "target": "Q7171186",
+      "property_id": "P279",
+      "property_label": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "source": "Q5221455",
+      "target": "Q17176998",
+      "property_id": "P279",
+      "property_label": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "source": "Q5221455",
+      "target": "Q419",
+      "property_id": "P495",
+      "property_label": "http://www.wikidata.org/prop/direct/P495"
+    },
+    {
+      "source": "Q5221455",
+      "target": "Q110319947",
+      "property_id": "P3259",
+      "property_label": "http://www.wikidata.org/prop/direct/P3259"
+    },
+    {
+      "source": "Q5221455",
+      "target": "Q112898263",
+      "property_id": "P6104",
+      "property_label": "http://www.wikidata.org/prop/direct/P6104"
+    },
+    {
+      "source": "Q5447343",
+      "target": "Q2717",
+      "property_id": "P837",
+      "property_label": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "source": "Q5447343",
+      "target": "Q2718",
+      "property_id": "P837",
+      "property_label": "http://www.wikidata.org/prop/direct/P837"
+    },
+    {
+      "source": "Q5799139",
+      "target": "Q11639",
+      "property_id": "P279",
+      "property_label": "http://www.wikidata.org/prop/direct/P279"
+    },
+    {
+      "source": "Q5799139",
+      "target": "Q419",
+      "property_id": "P495",
+      "property_label": "http://www.wikidata.org/prop/direct/P495"
+    },
+    {
+      "source": "Q5799139",
+      "target": "Q84036549",
+      "property_id": "P1435",
+      "property_label": "http://www.wikidata.org/prop/direct/P1435"
+    },
+    {
+      "source": "Q5799139",
+      "target": "Q110319947",
+      "property_id": "P3259",
+      "property_label": "http://www.wikidata.org/prop/direct/P3259"
+    },
+    {
+      "source": "Q5799139",
+      "target": "Q112898263",
+      "property_id": "P6104",
+      "property_label": "http://www.wikidata.org/prop/direct/P6104"
+    }
+  ]
+}

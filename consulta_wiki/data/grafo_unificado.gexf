@@ -1,0 +1,4625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-08-21">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="property_id" type="string" />
+      <attribute id="2" title="property_label" type="string" />
+      <attribute id="3" title="networkx_key" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="labels" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Q2408955" label="Festividad de Qoyllorit'i">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Festividad de Qoyllorit'i&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q205057" label="Departamento de Cusco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Departamento de Cusco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q25755314" label="Gran Cruz de la Orden El Sol del Perú">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Gran Cruz de la Orden El Sol del Perú&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q419" label="Perú">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Perú&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q200538" label="fiesta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;fiesta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q110319947" label="Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q112898263" label="WikiProyecto patrimonio cultural inmaterial">
+        <attvalues>
+          <attvalue for="0" value="[&quot;WikiProyecto patrimonio cultural inmaterial&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q60643381" label="Fiesta de la Virgen del Carmen de Paucartambo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Fiesta de la Virgen del Carmen de Paucartambo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1065053" label="Virgen del Carmen">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Virgen del Carmen&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q375011" label="festividad religiosa">
+        <attvalues>
+          <attvalue for="0" value="[&quot;festividad religiosa&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2729" label="17 de julio">
+        <attvalues>
+          <attvalue for="0" value="[&quot;17 de julio&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2730" label="18 de julio">
+        <attvalues>
+          <attvalue for="0" value="[&quot;18 de julio&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2731" label="16 de julio">
+        <attvalues>
+          <attvalue for="0" value="[&quot;16 de julio&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833695" label="Capilla Virgen Inmaculada Concepción">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla Virgen Inmaculada Concepción&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2065736" label="bien cultural">
+        <attvalues>
+          <attvalue for="0" value="[&quot;bien cultural&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1920482" label="Provincia de Anta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Anta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3825462" label="Distrito de Anta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Anta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834609" label="Iglesia Virgen de las Nieves de Sangarará">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia Virgen de las Nieves de Sangarará&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1920602" label="Provincia de Acomayo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Acomayo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2718575" label="Distrito de Sangarará">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Sangarará&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835067" label="Templo de Nuestra Señora de la Asunción">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Nuestra Señora de la Asunción&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2718526" label="Distrito de Rondocan">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Rondocan&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835562" label="Templo del Señor de la Exaltación">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo del Señor de la Exaltación&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1920500" label="Provincia de Canas">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Canas&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312971" label="Distrito de Quehue">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Quehue&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836531" label="Templo Santo Domingo de Sanka">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santo Domingo de Sanka&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836561" label="Templo Santo Tomas de Aquino">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santo Tomas de Aquino&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3001637" label="Convento de Santo Domingo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Convento de Santo Domingo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q16970" label="iglesia">
+        <attvalues>
+          <attvalue for="0" value="[&quot;iglesia&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1128397" label="convento">
+        <attvalues>
+          <attvalue for="0" value="[&quot;convento&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1132101" label="Provincia de Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5582862" label="Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2723621" label="Distrito de Cusco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Cusco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q10858554" label="Señor de los Temblores">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Señor de los Temblores&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q130719847" label="advocacion cristífera">
+        <attvalues>
+          <attvalue for="0" value="[&quot;advocacion cristífera&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2942242" label="Catedral del Cusco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Catedral del Cusco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835698" label="Templo Nuestra Señora Asunta de Pampacucho">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Nuestra Señora Asunta de Pampacucho&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1920613" label="Provincia de Paruro">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Paruro&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312249" label="Distrito de Colcha">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Colcha&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836586" label="Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Virgen Asunción de Choquekancha, atrios frontal y lateral, áreas libres laterales, barda perimetral y arco triunfal&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1948019" label="Provincia de Calca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Calca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312892" label="Distrito de Lares">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Lares&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q131344185" label="Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Gloria de Santos y Mártires (Familia del brigadier Mateo Pumacahua)&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3305213" label="pintura">
+        <attvalues>
+          <attvalue for="0" value="[&quot;pintura&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q54800990" label="Museo Histórico Regional de Cusco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Museo Histórico Regional de Cusco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42832097" label="iglesia de la Natividad de la Virgen">
+        <attvalues>
+          <attvalue for="0" value="[&quot;iglesia de la Natividad de la Virgen&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1073654" label="Distrito de Chinchero">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Chinchero&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q26764442" label="Chinchero">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Chinchero&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834451" label="Ex casa hacienda de Huallhua y capilla Virgen del Rosario">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Ex casa hacienda de Huallhua y capilla Virgen del Rosario&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3313092" label="Distrito de San Salvador">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de San Salvador&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2003624" label="Tipón">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Tipón&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q839954" label="yacimiento arqueológico">
+        <attvalues>
+          <attvalue for="0" value="[&quot;yacimiento arqueológico&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1920520" label="Provincia de Quispicanchi">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Quispicanchi&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3313067" label="Distrito de Oropesa">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Oropesa&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q15949935" label="Waqrapukara">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Waqrapukara&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q591626" label="Distrito de Acos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Acos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42825898" label="Capilla de Santa Barbara de Acomayo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de Santa Barbara de Acomayo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2718491" label="Distrito de Acomayo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Acomayo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42825969" label="Iglesia de Belén de Acomayo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Belén de Acomayo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826054" label="Iglesia parroquial de San Agustín de Pomacanchi">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia parroquial de San Agustín de Pomacanchi&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826110" label="Molino de San Cristóbal de Acomayo o molino de los Incas">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Molino de San Cristóbal de Acomayo o molino de los Incas&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826170" label="Molino de la creación o Uyfita molina">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Molino de la creación o Uyfita molina&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826225" label="Iglesia parroquial de Mosoc Llacta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia parroquial de Mosoc Llacta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2488809" label="Distrito de Mosoc Llacta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Mosoc Llacta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826347" label="Iglesia de Langui">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Langui&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312918" label="Distrito de Langui">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Langui&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826401" label="Iglesia de Pampamarca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Pampamarca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312952" label="Distrito de Pampamarca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Pampamarca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826457" label="Puente de Qeswachaca de Quehue">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Puente de Qeswachaca de Quehue&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831358" label="Iglesia de San Pedro apóstol de Andahuaylillas">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de San Pedro apóstol de Andahuaylillas&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2846059" label="Distrito de Andahuaylillas">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Andahuaylillas&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831409" label="Capilla de Canincunca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de Canincunca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3313115" label="Distrito de Huaro">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Huaro&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831466" label="Iglesia de Huaro">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Huaro&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831611" label="Iglesia de Oropesa">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Oropesa&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831659" label="Casa Hacienda de Callapucyo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Casa Hacienda de Callapucyo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831708" label="Casa Hacienda del Marques de Valle Umbroso">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Casa Hacienda del Marques de Valle Umbroso&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831764" label="Plaza principal y calles del pueblo de Quiquijana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Plaza principal y calles del pueblo de Quiquijana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312532" label="Distrito de Quiquijana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Quiquijana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831821" label="Capilla de Quiquijana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de Quiquijana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831882" label="Iglesia parroquial de Quiquijana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia parroquial de Quiquijana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831947" label="Antiguo puente sobre el rio Vilcanota (restos)">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Antiguo puente sobre el rio Vilcanota (restos)&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831993" label="Iglesia de Urcos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Urcos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q934601" label="Distrito de Urcos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Urcos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833188" label="Capilla de Kuchuwasi, torre exenta, atrio frontal con barda perimetral y cementerio con barda perimetral">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de Kuchuwasi, torre exenta, atrio frontal con barda perimetral y cementerio con barda perimetral&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312165" label="Distrito de Ocongate">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Ocongate&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833307" label="Capilla de Markjo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de Markjo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833413" label="Capilla de Tayankani">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de Tayankani&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312947" label="Distrito de Ccarhuayo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Ccarhuayo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833635" label="Capilla Santa Rosa de Lima de Choquepata">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla Santa Rosa de Lima de Choquepata&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833816" label="Casa cabildo Zurite">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Casa cabildo Zurite&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3825754" label="Distrito de Zurite">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Zurite&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833994" label="Casa de José Gabriel Condorcanqui">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Casa de José Gabriel Condorcanqui&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312517" label="Túpac Amaru">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Túpac Amaru&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834109" label="Casa Hacienda Anderes">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Casa Hacienda Anderes&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834961" label="Templo de Huayllacocha">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Huayllacocha&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3313271" label="Distrito de Huarocondo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Huarocondo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835128" label="Templo de San Francisco de Asis de Marcapata (incluye el atrio cercado y la torre exenta)">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de San Francisco de Asis de Marcapata (incluye el atrio cercado y la torre exenta)&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312576" label="Distrito de Marcapata">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Marcapata&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835334" label="Templo de San Nicolas de Bari">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de San Nicolas de Bari&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835523" label="Templo de Tungasuca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Tungasuca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835593" label="Templo Inmaculada Concepción, torre exenta, arco de acceso al atrio, cruz atrial, atrio frontal y areas libres laterales y posterior">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Inmaculada Concepción, torre exenta, arco de acceso al atrio, cruz atrial, atrio frontal y areas libres laterales y posterior&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q967582" label="Distrito de Pomacanchi">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Pomacanchi&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835766" label="Templo patrón San Jerónimo, cruz atrial, atrio frontal y áreas libres laterales y posterior">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo patrón San Jerónimo, cruz atrial, atrio frontal y áreas libres laterales y posterior&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q938103" label="Distrito de Acopía">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Acopía&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835842" label="Templo San Francisco de Asis de Huayqui y torre exenta ubicada fuera de la plaza">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Francisco de Asis de Huayqui y torre exenta ubicada fuera de la plaza&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835919" label="Templo San Juan Bautista de Ccatcca y torre campanario exenta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Juan Bautista de Ccatcca y torre campanario exenta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312493" label="Distrito de Ccatca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Ccatca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835962" label="Templo San Juan Bautista de Pomacanchi, torre exenta con barda y arco de acceso adyacentes, atrio frontal y lateral">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Juan Bautista de Pomacanchi, torre exenta con barda y arco de acceso adyacentes, atrio frontal y lateral&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836000" label="Templo San Martín obispo de Tours">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Martín obispo de Tours&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836071" label="Templo San Miguel de Acos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Miguel de Acos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836103" label="Templo San Pablo apostol de Ocongate">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Pablo apostol de Ocongate&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836241" label="Templo Santa Lucia de Pomacanchi">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santa Lucia de Pomacanchi&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836337" label="Templo Santiago apostol de Corma">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santiago apostol de Corma&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836373" label="Templo Santiago apóstol de Kuñotambo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santiago apóstol de Kuñotambo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1360456" label="Tambomachay">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Tambomachay&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1341387" label="balneario">
+        <attvalues>
+          <attvalue for="0" value="[&quot;balneario&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2390374" label="Puca Pucara">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Puca Pucara&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2977" label="catedral">
+        <attvalues>
+          <attvalue for="0" value="[&quot;catedral&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q120560" label="basílica menor">
+        <attvalues>
+          <attvalue for="0" value="[&quot;basílica menor&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q570116" label="atracción turística">
+        <attvalues>
+          <attvalue for="0" value="[&quot;atracción turística&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q162691" label="Asunción de María">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Asunción de María&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5738212" label="Cabildo del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Cabildo del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q9172888" label="batalla de Combapata">
+        <attvalues>
+          <attvalue for="0" value="[&quot;batalla de Combapata&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q178561" label="batalla">
+        <attvalues>
+          <attvalue for="0" value="[&quot;batalla&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312913" label="Distrito de Combapata">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Combapata&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1806552" label="rebelión de Túpac Amaru II">
+        <attvalues>
+          <attvalue for="0" value="[&quot;rebelión de Túpac Amaru II&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q10974742" label="iglesia de la Compañía">
+        <attvalues>
+          <attvalue for="0" value="[&quot;iglesia de la Compañía&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q56395672" label="iglesia jesuítica">
+        <attvalues>
+          <attvalue for="0" value="[&quot;iglesia jesuítica&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q26905493" label="iglesia de San Sebastián">
+        <attvalues>
+          <attvalue for="0" value="[&quot;iglesia de San Sebastián&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3322708" label="Distrito de San Sebastián">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de San Sebastián&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826529" label="Iglesia de Combapata">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Combapata&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q951287" label="Provincia de Canchis">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Canchis&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826588" label="Puente sobre el río Salcca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Puente sobre el río Salcca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826647" label="Iglesia de Checacupe">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Checacupe&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312597" label="Distrito de Checacupe">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Checacupe&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826703" label="Iglesia de Marangani">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Marangani&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312558" label="Distrito de Maranganí">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Maranganí&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826763" label="Iglesia matriz de Sicuani">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia matriz de Sicuani&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2608412" label="Distrito de Sicuani">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Sicuani&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826830" label="Casa quinta de Manzanares">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Casa quinta de Manzanares&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826912" label="Iglesia de Tinta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Tinta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3322654" label="Distrito de Tinta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Tinta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826974" label="Calles y plazas en la zona monumental del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Calles y plazas en la zona monumental del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834849" label="Templo de Antapallpa">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Antapallpa&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2893883" label="Distrito de Omacha">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Omacha&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834907" label="Templo de Hanansaya">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Hanansaya&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312865" label="Distrito de Accha">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Accha&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835013" label="Templo de Hurinsaya">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Hurinsaya&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835232" label="Templo de San Juan Bautista de Colcha">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de San Juan Bautista de Colcha&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835280" label="Templo de San Lorenzo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de San Lorenzo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835444" label="Templo de Santa Lucia de Pichigua, atrio frontal y espacios laterales y posterior que lo rodean">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo de Santa Lucia de Pichigua, atrio frontal y espacios laterales y posterior que lo rodean&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1947973" label="Provincia de Espinar">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Espinar&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3321976" label="Distrito de Pichigua">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Pichigua&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42835807" label="Templo San Cosme y San Damian, atrio frontal y laterales, arco frontal y cerco perimetrico">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo San Cosme y San Damian, atrio frontal y laterales, arco frontal y cerco perimetrico&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836203" label="Templo Santa Ana de Yauri, conjunto religioso conformado por templo, y torre exenta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santa Ana de Yauri, conjunto religioso conformado por templo, y torre exenta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3314065" label="Distrito de Yauri">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Yauri&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836273" label="Templo Santa Maria Magdalena de Taray">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santa Maria Magdalena de Taray&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3313110" label="Distrito de Taray">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Taray&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836407" label="Templo Santiago apostol de Lamay">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santiago apostol de Lamay&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312884" label="Distrito de Lamay">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Lamay&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42836500" label="Templo Santísima Trinidad de Misca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Templo Santísima Trinidad de Misca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q921913" label="Distrito de Paruro">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Paruro&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q676203" label="Machu Picchu">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Machu Picchu&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q15661340" label="ciudad antigua">
+        <attvalues>
+          <attvalue for="0" value="[&quot;ciudad antigua&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q1771879" label="Provincia de Urubamba">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Provincia de Urubamba&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q397990" label="Aguas Calientes">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Aguas Calientes&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3331815" label="Santuario histórico de Machu Picchu">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Santuario histórico de Machu Picchu&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2338093" label="Batalla de Jaquijahuana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Batalla de Jaquijahuana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q828336" label="Saqsaywaman">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Saqsaywaman&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5884503" label="Gran Rebelión de Encomenderos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Gran Rebelión de Encomenderos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q4872293" label="batalla de Sangarará">
+        <attvalues>
+          <attvalue for="0" value="[&quot;batalla de Sangarará&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q7417854" label="Sangarará">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Sangarará&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5055825" label="batalla de Sacsayhuaman">
+        <attvalues>
+          <attvalue for="0" value="[&quot;batalla de Sacsayhuaman&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q636771" label="Conquista del Imperio Inca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Conquista del Imperio Inca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q9172756" label="batalla de Urcos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;batalla de Urcos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2989619" label="Urcos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Urcos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q16618903" label="Piedra de los doce ángulos">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Piedra de los doce ángulos&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q22731" label="piedra">
+        <attvalues>
+          <attvalue for="0" value="[&quot;piedra&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q618123" label="característica geográfica">
+        <attvalues>
+          <attvalue for="0" value="[&quot;característica geográfica&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5892811" label="Hatun Rumiyoc">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Hatun Rumiyoc&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42826285" label="Iglesia de Calca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Calca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312974" label="Distrito de Calca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Calca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42830962" label="Iglesia de San Francisco de Asís de la comunidad de Apachacco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de San Francisco de Asís de la comunidad de Apachacco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3315216" label="Distrito de Coporaque">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Coporaque&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831023" label="Iglesia parroquial de Huanoquite">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia parroquial de Huanoquite&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312396" label="Distrito de Huanoquite">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Huanoquite&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831073" label="Plaza mayor de Paccaritambo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Plaza mayor de Paccaritambo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312608" label="Distrito de Paccaritambo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Paccaritambo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831120" label="Iglesia de Paccaritambo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Paccaritambo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42831169" label="Iglesia de San Esteban de Yaurisque">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de San Esteban de Yaurisque&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3312939" label="Distrito de Yaurisque">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Distrito de Yaurisque&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42832721" label="Huch'uy Qusqu">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Huch'uy Qusqu&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833245" label="Capilla de la comunidad campesina de Pircca">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla de la comunidad campesina de Pircca&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42833523" label="Capilla San Antonio de Padua">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Capilla San Antonio de Padua&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834323" label="Conj. religioso conformado por el templo San Juan Bautista de Coporaque, la capilla San Miguel Arcangel, la torre exenta, la barda perimetral, el atrio lateral con frente hacia la plaza y atrio frontal">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Conj. religioso conformado por el templo San Juan Bautista de Coporaque, la capilla San Miguel Arcangel, la torre exenta, la barda perimetral, el atrio lateral con frente hacia la plaza y atrio frontal&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42834561" label="Iglesia patrón San Salvador del Mundo">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia patrón San Salvador del Mundo&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q106314740" label="vías públicas en un área">
+        <attvalues>
+          <attvalue for="0" value="[&quot;vías públicas en un área&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827039" label="Lucre calle">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Lucre calle&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827108" label="Calle de acceso a Mesa Redonda">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Calle de acceso a Mesa Redonda&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827174" label="Calle de Recoleta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Calle de Recoleta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827242" label="Calle del Retiro (Qquenqo Mayo)">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Calle del Retiro (Qquenqo Mayo)&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827318" label="Plaza de la Almudena del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Plaza de la Almudena del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827372" label="Plaza de Belén del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Plaza de Belén del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827429" label="Plaza de Santiago del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Plaza de Santiago del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827490" label="Plazuela de la Recoleta del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Plazuela de la Recoleta del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827558" label="Iglesia, hospital y convento de la Almudena del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia, hospital y convento de la Almudena del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q42827844" label="Iglesia de Loreto del Cuzco">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iglesia de Loreto del Cuzco&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3804600" label="Iuma">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Iuma&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q30914346" label="Festividad PerúBA">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Festividad PerúBA&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q99209774" label="Día del Cajón Peruano">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Día del Cajón Peruano&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q3010205" label="celebración">
+        <attvalues>
+          <attvalue for="0" value="[&quot;celebración&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q99211395" label="Día de la Medicina Peruana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Día de la Medicina Peruana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q99317470" label="Día de la Enfermería Peruana">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Día de la Enfermería Peruana&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q118113506" label="Día Internacional de los Trabajadores en Perú 2023">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Día Internacional de los Trabajadores en Perú 2023&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q118395687" label="Raymi Llacta">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Raymi Llacta&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5447343" label="Fiestas Patrias en el Perú">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Fiestas Patrias en el Perú&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q68478" label="Guerra de Independencia de Perú">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Guerra de Independencia de Perú&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5861783" label="Fiesta internacional de teatro en calles abiertas">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Fiesta internacional de teatro en calles abiertas&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5221455" label="Danza de las tijeras">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Danza de las tijeras&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q201022" label="danza folclórica">
+        <attvalues>
+          <attvalue for="0" value="[&quot;danza folclórica&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q7171186" label="Danzas del Perú">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Danzas del Perú&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q17176998" label="danza amerindia">
+        <attvalues>
+          <attvalue for="0" value="[&quot;danza amerindia&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2717" label="29 de julio">
+        <attvalues>
+          <attvalue for="0" value="[&quot;29 de julio&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q2718" label="28 de julio">
+        <attvalues>
+          <attvalue for="0" value="[&quot;28 de julio&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q5799139" label="Danza de Negritos y Las Pallitas">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Danza de Negritos y Las Pallitas&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q11639" label="danza">
+        <attvalues>
+          <attvalue for="0" value="[&quot;danza&quot;]" />
+        </attvalues>
+      </node>
+      <node id="Q84036549" label="Patrimonio Cultural Inmaterial de la Humanidad">
+        <attvalues>
+          <attvalue for="0" value="[&quot;Patrimonio Cultural Inmaterial de la Humanidad&quot;]" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Q2408955" target="Q205057" id="0">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2408955" target="Q25755314" id="1">
+        <attvalues>
+          <attvalue for="1" value="P166" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P166" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2408955" target="Q419" id="2">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2408955" target="Q419" id="3">
+        <attvalues>
+          <attvalue for="1" value="P495" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P495" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Q2408955" target="Q200538" id="4">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2408955" target="Q110319947" id="5">
+        <attvalues>
+          <attvalue for="1" value="P3259" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P3259" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2408955" target="Q112898263" id="6">
+        <attvalues>
+          <attvalue for="1" value="P6104" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P6104" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q60643381" target="Q1065053" id="7">
+        <attvalues>
+          <attvalue for="1" value="P138" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P138" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q60643381" target="Q419" id="8">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q60643381" target="Q375011" id="9">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q60643381" target="Q2729" id="10">
+        <attvalues>
+          <attvalue for="1" value="P837" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P837" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q60643381" target="Q2730" id="11">
+        <attvalues>
+          <attvalue for="1" value="P837" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P837" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q60643381" target="Q2731" id="12">
+        <attvalues>
+          <attvalue for="1" value="P837" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P837" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833695" target="Q419" id="13">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833695" target="Q2065736" id="14">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833695" target="Q1920482" id="15">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833695" target="Q3825462" id="16">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834609" target="Q419" id="17">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834609" target="Q2065736" id="18">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834609" target="Q1920602" id="19">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834609" target="Q2718575" id="20">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835067" target="Q419" id="21">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835067" target="Q2065736" id="22">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835067" target="Q1920602" id="23">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835067" target="Q2718526" id="24">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835562" target="Q419" id="25">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835562" target="Q2065736" id="26">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835562" target="Q1920500" id="27">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835562" target="Q3312971" id="28">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836531" target="Q419" id="29">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836531" target="Q2065736" id="30">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836531" target="Q1920602" id="31">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836531" target="Q2718526" id="32">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836561" target="Q419" id="33">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836561" target="Q2065736" id="34">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836561" target="Q1920602" id="35">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3001637" target="Q419" id="36">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3001637" target="Q16970" id="37">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3001637" target="Q1128397" id="38">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3001637" target="Q1132101" id="39">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3001637" target="Q5582862" id="40">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3001637" target="Q2723621" id="41">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10858554" target="Q419" id="42">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10858554" target="Q130719847" id="43">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10858554" target="Q2942242" id="44">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q419" id="45">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q2977" id="46">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q120560" id="47">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q570116" id="48">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q1132101" id="49">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q5582862" id="50">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q162691" id="51">
+        <attvalues>
+          <attvalue for="1" value="P138" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P138" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2942242" target="Q2723621" id="52">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835698" target="Q419" id="53">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835698" target="Q2065736" id="54">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835698" target="Q1920613" id="55">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835698" target="Q3312249" id="56">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836586" target="Q419" id="57">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836586" target="Q2065736" id="58">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836586" target="Q1948019" id="59">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836586" target="Q3312892" id="60">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q131344185" target="Q3305213" id="61">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q131344185" target="Q54800990" id="62">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832097" target="Q419" id="63">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832097" target="Q16970" id="64">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832097" target="Q1073654" id="65">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832097" target="Q26764442" id="66">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834451" target="Q419" id="67">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834451" target="Q2065736" id="68">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834451" target="Q1948019" id="69">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834451" target="Q3313092" id="70">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2003624" target="Q419" id="71">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2003624" target="Q419" id="72">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Q2003624" target="Q839954" id="73">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2003624" target="Q1920520" id="74">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2003624" target="Q3313067" id="75">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q15949935" target="Q419" id="76">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q15949935" target="Q839954" id="77">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q15949935" target="Q205057" id="78">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q15949935" target="Q591626" id="79">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825898" target="Q419" id="80">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825898" target="Q2065736" id="81">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825898" target="Q1920602" id="82">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825898" target="Q2718491" id="83">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825969" target="Q419" id="84">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825969" target="Q2065736" id="85">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825969" target="Q1920602" id="86">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42825969" target="Q2718491" id="87">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826054" target="Q419" id="88">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826054" target="Q2065736" id="89">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826054" target="Q1920602" id="90">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826054" target="Q2718491" id="91">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826110" target="Q419" id="92">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826110" target="Q2065736" id="93">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826110" target="Q1920602" id="94">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826110" target="Q2718491" id="95">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826170" target="Q419" id="96">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826170" target="Q2065736" id="97">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826170" target="Q1920602" id="98">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826170" target="Q2718491" id="99">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826225" target="Q419" id="100">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826225" target="Q2065736" id="101">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826225" target="Q1920602" id="102">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826225" target="Q2488809" id="103">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826347" target="Q419" id="104">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826347" target="Q2065736" id="105">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826347" target="Q1920500" id="106">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826347" target="Q3312918" id="107">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826401" target="Q419" id="108">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826401" target="Q2065736" id="109">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826401" target="Q1920500" id="110">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826401" target="Q3312952" id="111">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826457" target="Q419" id="112">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826457" target="Q2065736" id="113">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826457" target="Q1920500" id="114">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826457" target="Q3312971" id="115">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831358" target="Q419" id="116">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831358" target="Q2065736" id="117">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831358" target="Q1920520" id="118">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831358" target="Q2846059" id="119">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831409" target="Q419" id="120">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831409" target="Q2065736" id="121">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831409" target="Q1920520" id="122">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831409" target="Q3313115" id="123">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831466" target="Q419" id="124">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831466" target="Q2065736" id="125">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831466" target="Q1920520" id="126">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831466" target="Q3313115" id="127">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831611" target="Q419" id="128">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831611" target="Q2065736" id="129">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831611" target="Q1920520" id="130">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831611" target="Q3313067" id="131">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831659" target="Q419" id="132">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831659" target="Q2065736" id="133">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831659" target="Q1920520" id="134">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831659" target="Q3313067" id="135">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831708" target="Q419" id="136">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831708" target="Q2065736" id="137">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831708" target="Q1920520" id="138">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831708" target="Q3313067" id="139">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831764" target="Q419" id="140">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831764" target="Q2065736" id="141">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831764" target="Q1920520" id="142">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831764" target="Q3312532" id="143">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831821" target="Q419" id="144">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831821" target="Q2065736" id="145">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831821" target="Q1920520" id="146">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831821" target="Q3312532" id="147">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831882" target="Q419" id="148">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831882" target="Q2065736" id="149">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831882" target="Q1920520" id="150">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831882" target="Q3312532" id="151">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831947" target="Q419" id="152">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831947" target="Q2065736" id="153">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831947" target="Q1920520" id="154">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831947" target="Q3312532" id="155">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831993" target="Q419" id="156">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831993" target="Q2065736" id="157">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831993" target="Q1920520" id="158">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831993" target="Q934601" id="159">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833188" target="Q419" id="160">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833188" target="Q2065736" id="161">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833188" target="Q1920520" id="162">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833188" target="Q3312165" id="163">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833307" target="Q419" id="164">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833307" target="Q2065736" id="165">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833307" target="Q1920482" id="166">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833307" target="Q3825462" id="167">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833413" target="Q419" id="168">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833413" target="Q2065736" id="169">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833413" target="Q1920520" id="170">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833413" target="Q3312947" id="171">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833635" target="Q419" id="172">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833635" target="Q2065736" id="173">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833635" target="Q1920520" id="174">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833635" target="Q3313067" id="175">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833816" target="Q419" id="176">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833816" target="Q2065736" id="177">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833816" target="Q1920482" id="178">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833816" target="Q3825754" id="179">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833994" target="Q419" id="180">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833994" target="Q2065736" id="181">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833994" target="Q1920500" id="182">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833994" target="Q3312517" id="183">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834109" target="Q419" id="184">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834109" target="Q2065736" id="185">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834109" target="Q1920482" id="186">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834109" target="Q3825754" id="187">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834961" target="Q419" id="188">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834961" target="Q2065736" id="189">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834961" target="Q1920482" id="190">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834961" target="Q3313271" id="191">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835128" target="Q419" id="192">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835128" target="Q2065736" id="193">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835128" target="Q1920520" id="194">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835128" target="Q3312576" id="195">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835334" target="Q419" id="196">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835334" target="Q2065736" id="197">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835334" target="Q1920482" id="198">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835334" target="Q3825754" id="199">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835523" target="Q419" id="200">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835523" target="Q2065736" id="201">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835523" target="Q1920500" id="202">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835523" target="Q3312517" id="203">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835593" target="Q419" id="204">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835593" target="Q2065736" id="205">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835593" target="Q1920602" id="206">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835593" target="Q967582" id="207">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835766" target="Q419" id="208">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835766" target="Q2065736" id="209">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835766" target="Q1920602" id="210">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835766" target="Q938103" id="211">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835842" target="Q419" id="212">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835842" target="Q2065736" id="213">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835842" target="Q1920602" id="214">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835842" target="Q591626" id="215">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835919" target="Q419" id="216">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835919" target="Q2065736" id="217">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835919" target="Q1920520" id="218">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835919" target="Q3312493" id="219">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835962" target="Q419" id="220">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835962" target="Q2065736" id="221">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835962" target="Q1920602" id="222">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835962" target="Q967582" id="223">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836000" target="Q419" id="224">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836000" target="Q2065736" id="225">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836000" target="Q1920482" id="226">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836000" target="Q3313271" id="227">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836071" target="Q419" id="228">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836071" target="Q2065736" id="229">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836071" target="Q1920602" id="230">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836071" target="Q591626" id="231">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836103" target="Q419" id="232">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836103" target="Q2065736" id="233">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836103" target="Q1920520" id="234">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836103" target="Q3312165" id="235">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836241" target="Q419" id="236">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836241" target="Q2065736" id="237">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836241" target="Q1920602" id="238">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836241" target="Q967582" id="239">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836337" target="Q419" id="240">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836337" target="Q2065736" id="241">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836337" target="Q1920602" id="242">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836337" target="Q591626" id="243">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836373" target="Q419" id="244">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836373" target="Q2065736" id="245">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836373" target="Q1920602" id="246">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836373" target="Q2718526" id="247">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q1360456" target="Q419" id="248">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q1360456" target="Q839954" id="249">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q1360456" target="Q1341387" id="250">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q1360456" target="Q1132101" id="251">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q1360456" target="Q2723621" id="252">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2390374" target="Q419" id="253">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2390374" target="Q839954" id="254">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2390374" target="Q1132101" id="255">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2390374" target="Q2723621" id="256">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5738212" target="Q419" id="257">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5738212" target="Q2065736" id="258">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5738212" target="Q1132101" id="259">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5738212" target="Q2723621" id="260">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q9172888" target="Q178561" id="261">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q9172888" target="Q3312913" id="262">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q9172888" target="Q1806552" id="263">
+        <attvalues>
+          <attvalue for="1" value="P361" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P361" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10974742" target="Q419" id="264">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10974742" target="Q56395672" id="265">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10974742" target="Q1132101" id="266">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10974742" target="Q5582862" id="267">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q10974742" target="Q2723621" id="268">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q26905493" target="Q419" id="269">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q26905493" target="Q16970" id="270">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q26905493" target="Q205057" id="271">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q26905493" target="Q1132101" id="272">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q26905493" target="Q3322708" id="273">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826529" target="Q419" id="274">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826529" target="Q2065736" id="275">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826529" target="Q951287" id="276">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826529" target="Q3312913" id="277">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826588" target="Q419" id="278">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826588" target="Q2065736" id="279">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826588" target="Q951287" id="280">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826588" target="Q3312913" id="281">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826647" target="Q419" id="282">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826647" target="Q2065736" id="283">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826647" target="Q951287" id="284">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826647" target="Q3312597" id="285">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826703" target="Q419" id="286">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826703" target="Q2065736" id="287">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826703" target="Q951287" id="288">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826703" target="Q3312558" id="289">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826763" target="Q419" id="290">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826763" target="Q2065736" id="291">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826763" target="Q951287" id="292">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826763" target="Q2608412" id="293">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826830" target="Q419" id="294">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826830" target="Q2065736" id="295">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826830" target="Q951287" id="296">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826830" target="Q2608412" id="297">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826912" target="Q419" id="298">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826912" target="Q2065736" id="299">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826912" target="Q951287" id="300">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826912" target="Q3322654" id="301">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826974" target="Q419" id="302">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826974" target="Q2065736" id="303">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826974" target="Q106314740" id="304">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826974" target="Q1132101" id="305">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826974" target="Q2723621" id="306">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834849" target="Q419" id="307">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834849" target="Q2065736" id="308">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834849" target="Q1920613" id="309">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834849" target="Q2893883" id="310">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834907" target="Q419" id="311">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834907" target="Q2065736" id="312">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834907" target="Q1920613" id="313">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834907" target="Q3312865" id="314">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835013" target="Q419" id="315">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835013" target="Q2065736" id="316">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835013" target="Q1920613" id="317">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835013" target="Q3312865" id="318">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835232" target="Q419" id="319">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835232" target="Q2065736" id="320">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835232" target="Q1920613" id="321">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835232" target="Q3312249" id="322">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835280" target="Q419" id="323">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835280" target="Q2065736" id="324">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835280" target="Q1920613" id="325">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835280" target="Q3312249" id="326">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835444" target="Q419" id="327">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835444" target="Q2065736" id="328">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835444" target="Q1947973" id="329">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835444" target="Q3321976" id="330">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835807" target="Q419" id="331">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835807" target="Q2065736" id="332">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835807" target="Q1948019" id="333">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42835807" target="Q3312892" id="334">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836203" target="Q419" id="335">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836203" target="Q2065736" id="336">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836203" target="Q1947973" id="337">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836203" target="Q3314065" id="338">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836273" target="Q419" id="339">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836273" target="Q2065736" id="340">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836273" target="Q1948019" id="341">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836273" target="Q3313110" id="342">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836407" target="Q419" id="343">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836407" target="Q2065736" id="344">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836407" target="Q1948019" id="345">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836407" target="Q3312884" id="346">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836500" target="Q419" id="347">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836500" target="Q2065736" id="348">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836500" target="Q1920613" id="349">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42836500" target="Q921913" id="350">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q419" id="351">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q570116" id="352">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q839954" id="353">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q15661340" id="354">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q205057" id="355">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q1771879" id="356">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q397990" id="357">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q676203" target="Q3331815" id="358">
+        <attvalues>
+          <attvalue for="1" value="P361" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P361" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2338093" target="Q419" id="359">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2338093" target="Q178561" id="360">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2338093" target="Q828336" id="361">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q2338093" target="Q5884503" id="362">
+        <attvalues>
+          <attvalue for="1" value="P361" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P361" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q4872293" target="Q419" id="363">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q4872293" target="Q178561" id="364">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q4872293" target="Q7417854" id="365">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q4872293" target="Q1806552" id="366">
+        <attvalues>
+          <attvalue for="1" value="P361" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P361" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5055825" target="Q178561" id="367">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5055825" target="Q828336" id="368">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5055825" target="Q636771" id="369">
+        <attvalues>
+          <attvalue for="1" value="P361" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P361" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q9172756" target="Q178561" id="370">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q9172756" target="Q2989619" id="371">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q9172756" target="Q636771" id="372">
+        <attvalues>
+          <attvalue for="1" value="P361" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P361" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q16618903" target="Q419" id="373">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q16618903" target="Q22731" id="374">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q16618903" target="Q618123" id="375">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q16618903" target="Q5582862" id="376">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q16618903" target="Q5892811" id="377">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826285" target="Q419" id="378">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826285" target="Q2065736" id="379">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826285" target="Q1948019" id="380">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42826285" target="Q3312974" id="381">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42830962" target="Q419" id="382">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42830962" target="Q2065736" id="383">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42830962" target="Q1947973" id="384">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42830962" target="Q3315216" id="385">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831023" target="Q419" id="386">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831023" target="Q2065736" id="387">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831023" target="Q1920613" id="388">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831023" target="Q3312396" id="389">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831073" target="Q419" id="390">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831073" target="Q2065736" id="391">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831073" target="Q1920613" id="392">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831073" target="Q3312608" id="393">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831120" target="Q419" id="394">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831120" target="Q2065736" id="395">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831120" target="Q1920613" id="396">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831120" target="Q3312608" id="397">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831169" target="Q419" id="398">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831169" target="Q2065736" id="399">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831169" target="Q1920613" id="400">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42831169" target="Q3312939" id="401">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832721" target="Q419" id="402">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832721" target="Q2065736" id="403">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832721" target="Q1948019" id="404">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42832721" target="Q3312974" id="405">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833245" target="Q419" id="406">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833245" target="Q2065736" id="407">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833245" target="Q1920613" id="408">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833245" target="Q3312608" id="409">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833523" target="Q419" id="410">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833523" target="Q2065736" id="411">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833523" target="Q1948019" id="412">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42833523" target="Q3313092" id="413">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834323" target="Q419" id="414">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834323" target="Q2065736" id="415">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834323" target="Q1947973" id="416">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834323" target="Q3315216" id="417">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834561" target="Q419" id="418">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834561" target="Q2065736" id="419">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834561" target="Q1948019" id="420">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42834561" target="Q3313092" id="421">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827039" target="Q419" id="422">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827039" target="Q2065736" id="423">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827039" target="Q1132101" id="424">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827039" target="Q2723621" id="425">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827108" target="Q419" id="426">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827108" target="Q2065736" id="427">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827108" target="Q1132101" id="428">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827108" target="Q2723621" id="429">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827174" target="Q419" id="430">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827174" target="Q2065736" id="431">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827174" target="Q1132101" id="432">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827174" target="Q2723621" id="433">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827242" target="Q419" id="434">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827242" target="Q2065736" id="435">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827242" target="Q1132101" id="436">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827242" target="Q2723621" id="437">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827318" target="Q419" id="438">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827318" target="Q2065736" id="439">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827318" target="Q1132101" id="440">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827318" target="Q2723621" id="441">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827372" target="Q419" id="442">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827372" target="Q2065736" id="443">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827372" target="Q1132101" id="444">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827372" target="Q2723621" id="445">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827429" target="Q419" id="446">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827429" target="Q2065736" id="447">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827429" target="Q1132101" id="448">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827429" target="Q2723621" id="449">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827490" target="Q419" id="450">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827490" target="Q2065736" id="451">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827490" target="Q1132101" id="452">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827490" target="Q2723621" id="453">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827558" target="Q419" id="454">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827558" target="Q2065736" id="455">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827558" target="Q1132101" id="456">
+        <attvalues>
+          <attvalue for="1" value="P131" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P131" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827558" target="Q2723621" id="457">
+        <attvalues>
+          <attvalue for="1" value="P276" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P276" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827844" target="Q419" id="458">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q42827844" target="Q2065736" id="459">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3804600" target="Q419" id="460">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q3804600" target="Q200538" id="461">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q30914346" target="Q419" id="462">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q30914346" target="Q200538" id="463">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99209774" target="Q419" id="464">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99209774" target="Q200538" id="465">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99209774" target="Q3010205" id="466">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99211395" target="Q419" id="467">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99211395" target="Q200538" id="468">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99211395" target="Q3010205" id="469">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99317470" target="Q419" id="470">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99317470" target="Q200538" id="471">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q99317470" target="Q3010205" id="472">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q118113506" target="Q419" id="473">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q118113506" target="Q200538" id="474">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q118395687" target="Q419" id="475">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q118395687" target="Q200538" id="476">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5447343" target="Q419" id="477">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5447343" target="Q200538" id="478">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5447343" target="Q68478" id="479">
+        <attvalues>
+          <attvalue for="1" value="P138" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P138" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5447343" target="Q2717" id="480">
+        <attvalues>
+          <attvalue for="1" value="P837" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P837" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5447343" target="Q2718" id="481">
+        <attvalues>
+          <attvalue for="1" value="P837" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P837" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5861783" target="Q419" id="482">
+        <attvalues>
+          <attvalue for="1" value="P17" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P17" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5861783" target="Q200538" id="483">
+        <attvalues>
+          <attvalue for="1" value="P31" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P31" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5221455" target="Q201022" id="484">
+        <attvalues>
+          <attvalue for="1" value="P279" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P279" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5221455" target="Q7171186" id="485">
+        <attvalues>
+          <attvalue for="1" value="P279" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P279" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5221455" target="Q17176998" id="486">
+        <attvalues>
+          <attvalue for="1" value="P279" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P279" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5221455" target="Q419" id="487">
+        <attvalues>
+          <attvalue for="1" value="P495" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P495" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5221455" target="Q110319947" id="488">
+        <attvalues>
+          <attvalue for="1" value="P3259" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P3259" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5221455" target="Q112898263" id="489">
+        <attvalues>
+          <attvalue for="1" value="P6104" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P6104" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5799139" target="Q11639" id="490">
+        <attvalues>
+          <attvalue for="1" value="P279" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P279" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5799139" target="Q419" id="491">
+        <attvalues>
+          <attvalue for="1" value="P495" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P495" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5799139" target="Q84036549" id="492">
+        <attvalues>
+          <attvalue for="1" value="P1435" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P1435" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5799139" target="Q110319947" id="493">
+        <attvalues>
+          <attvalue for="1" value="P3259" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P3259" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Q5799139" target="Q112898263" id="494">
+        <attvalues>
+          <attvalue for="1" value="P6104" />
+          <attvalue for="2" value="http://www.wikidata.org/prop/direct/P6104" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

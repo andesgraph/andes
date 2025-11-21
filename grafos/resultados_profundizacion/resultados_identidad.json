@@ -1,0 +1,2709 @@
+{
+  "metadata": {
+    "dimension": "Identidad",
+    "fecha_ejecucion": "2025-08-19T17:58:54.823587",
+    "total_resultados": 300
+  },
+  "resultados": [
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3143696",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q2",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Tierra",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q11977460",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q2",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Tierra",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3550328",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q4436006",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q5097853",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "trabajo infantil en África",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q7157495",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q7230780",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q7380506",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q16910811",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "Comité de Asuntos Sociales y Salud",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q20379157",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q22976638",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "Afripol",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q78564798",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q107473398",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q111982860",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q117478051",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q124621886",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "Clasificación para la Copa Africana de Naciones de 2025",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q124881918",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q128601357",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q129849317",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130195606",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130426690",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130426943",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130426976",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q35762",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q15",
+      "nodoOrigenLabel": "lenguas guanches",
+      "nodoDestinoLabel": "África",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q340",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Montreal",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q386",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Bixi",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q391",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Calle Saint Catherine",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q981",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Warburg",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1062",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lago Ontario",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1066",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lago Superior",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1336",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Rimouski",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1383",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "lago Hurón",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1617",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "urdu",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1860",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "inglés",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1904",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Ontario",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1930",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Ottawa",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1951",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Alberta",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1948",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Manitoba",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1952",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nueva Escocia",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1965",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nuevo Brunswick",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1973",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Columbia Británica",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1978",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Isla del Príncipe Eduardo",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q1989",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Saskatchewan",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2003",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Terranova y Labrador",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2007",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Territorios del Noroeste",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2009",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Yukón",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2023",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nunavut",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2030",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Iqaluit",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2055",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Whitehorse",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2061",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Yellowknife",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2082",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "San Juan de Terranova",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2096",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Edmonton",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2123",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Regina",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2127",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Charlottetown",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2135",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Winnipeg",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2132",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Victoria",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2138",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Fredericton",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2141",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Halifax",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2145",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Quebec",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2216",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "río Athabasca",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2220",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "río de la Paz",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2226",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río de los Esclavos",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2231",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Hay",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2237",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Saskatchewan Norte",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2242",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Saskatchewan Sur",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2244",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Beaver",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2251",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Columbia",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2249",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Liard",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2258",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Estrecho de Georgia",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2262",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Kootenay",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2305",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "expedición perdida de Franklin",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2879",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "provincia o territorio de Canadá",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2939",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "geografía de Canadá",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q2945",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "historia de Canadá",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3040",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Bahía de Hudson",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3047",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Saskatchewan",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3201",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Observatorio de Elginfield",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3256",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Parque Provincial del Puente Alexandra",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3272",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lago Winnipeg",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3292",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nelson",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3318",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Churchill",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3411",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Mackenzie",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3439",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nahanni Septentrional",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q3452",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Redstone",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q4335",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Pointe-au-Père",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q4397",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "South Huron",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q4438",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Clarington",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q4558",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Cordillera de las Cascadas",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q4760",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Temporada 2012 de las Grandes Ligas de Béisbol",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q5463",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Montañas Rocosas",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q5492",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Erie",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q5525",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Lago del Oso",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q5539",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Lago del Esclavo",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q7965",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q8322",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Atmosphere Visual Effects",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q8444",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Juegos Olímpicos de Montreal 1976",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q8538",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Image Engine",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q8641",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "yidis",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q8798",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "ucraniano",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9063",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "esloveno",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9091",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "bielorruso",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9129",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "griego",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9166",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "maltés",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9176",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "coreano",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9314",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "gaélico escocés",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9484",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Le Bic",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9495",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Sitio histórico marítimo de Pointe-au-Père",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9506",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "HMCS Onondaga (S73)",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9601",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "zoroastrismo",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9658",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Juegos Olímpicos de Calgary 1988",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q9674",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Juegos Olímpicos de Vancouver 2010",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q10566",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Saskatoon",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q11228",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lion de la Feuillée",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q12575",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "puente Ambassador",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q12603",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Noroeste del Pacífico",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q12707",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Grandes Llanuras",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13193",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "lengua de señas quebequesa",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13268",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "siux",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13272",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "slave",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13315",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Michif",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13321",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "micmac",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13339",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "mohawk",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13351",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "innu",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q13940",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "CBC Radio",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q14348",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "canal Welland",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q14759",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "lengua de señas estadounidense",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q15863",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "eslovenos",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q16461",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nanaimo",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q16740",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Maple Ridge",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q150",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "francés",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q172",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Toronto",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q176",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Quebec",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65544",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1985",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65563",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1986",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65581",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1988",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65592",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1989",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65611",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1990",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65626",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1991",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65651",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1992",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65662",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1993",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65686",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1994",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65701",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1995",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65714",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1996",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65904",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1997",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65916",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1998",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65931",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 1999",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65948",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2000",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65964",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2001",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q65988",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2002",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66004",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2003",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66018",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2004",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66028",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2005",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66038",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2006",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66053",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2007",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66064",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2008",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66081",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2010",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66103",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2011",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q66118",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gran Premio de Canadá de 2012",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q68467",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lago Champlain",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q71996",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Harricana",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q72063",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q72075",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Thlewiaza",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q72079",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Ekwan",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q72673",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Hayes",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q72895",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Parques de las Montañas Rocosas Canadienses",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q73557",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q74878",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Northwestern Air",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q75596",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Montes Laurentinos",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q75834",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q75838",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q75861",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Virden",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q75894",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Carberry",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q75912",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Beausejour",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q76034",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Escudo Canadiense",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q76039",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Compañía de la Bahía de Hudson",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q76318",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Rogers Centre",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q80350",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q80363",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Rivière aux Feuilles",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q80695",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Survivor Series (1997)",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q81136",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "paso del Noroeste",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q81178",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "isla de Baffin",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q81308",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q81610",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Mr Gay World",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q82134",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q84072",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "pueblo turco",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q84127",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Península de Ungava",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q84129",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Ligas Menores de Béisbol",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q84170",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Península del Labrador",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q85377",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Archipiélago Ártico Canadiense",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q86366",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Teulon",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q86424",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q86580",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q86586",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q91285",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "martello",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q92561",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "London",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q93332",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Apalaches",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q93359",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "O Canada",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q93617",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Aeropuerto de Qualicum Beach",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q93902",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Aeropuerto de Prince Rupert",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q93930",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94141",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94258",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94262",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94271",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94285",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Petite rivière de la Baleine",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94299",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94301",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Royal Society of Canada",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94311",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94337",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Temporada 2011 de las Grandes Ligas de Béisbol",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94368",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Broadback",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94454",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q94904",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q99284",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q99290",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Hartland Bridge",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q99364",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q99455",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q99700",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Orden de Canadá",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q102251",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "sefardíes",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q104437",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Yukón",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q104444",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Amish",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q105441",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lunenburg",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q107434",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "sioux",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q111601",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q112975",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Enderby",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q113087",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q113464",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Chatham-Kent",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q113846",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q114604",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q115129",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Silicon Knights",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q115642",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Skate Canada International 2013",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q115663",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q115788",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Langford",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q115907",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q116167",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q116183",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Kapuskasing",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q116211",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Union des citoyens et des citoyennes de l'Île de Montréal",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q116833",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Skate Canada International 2012",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q117191",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Cree",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q117708",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Aeropuerto Toronto City Centre",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q117978",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gilbert Plains",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q117998",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Winnipeg Beach",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q118259",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Gillam",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q118696",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q119457",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Hoja de Arce de Oro",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q119515",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Frontera entre Canadá y Estados Unidos",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q120306",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Monte Logan",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q120467",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q120596",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q120649",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Guante de Oro",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q120824",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Monte Macdonald",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q121731",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q122023",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q122184",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lago Nipigon",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q122698",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q122704",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q123033",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Sarsi",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q123058",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q124352",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q124461",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q125495",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "La Nouvelle-Beauce",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q125564",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Maneses",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q125761",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Organización de Aviación Civil Internacional",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q125867",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Fort MacKay",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q126153",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Arnaud",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q126624",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Fort Mcmurray",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q126709",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "National Professional Soccer League",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q126805",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "St. Catharines",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q126922",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Río Petitcodiac",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127050",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Proyecto Manhattan",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127121",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127236",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127434",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127640",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127854",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Campeonato Mundial de Curling Femenino de 2008",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q127885",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "serbios",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q128172",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Isla de Orleans",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q128192",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q128484",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q128559",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Temporada 2007 de las Grandes Ligas de Béisbol",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q129060",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q129431",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Idioma prekmuro",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q129754",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "USL Professional Division 2011",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q129818",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130189",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130193",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Aeropuerto Internacional de Victoria",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130381",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Estadio de la Mancomunidad",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130425",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130494",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q130765",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Nuevo Partido Democrático",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q131274",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "mar de Beaufort",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q131359",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "lucha libre profesional",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q132110",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q132115",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q132170",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q132880",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Toronto Raptors",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q133032",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "magiares",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q133116",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Hamilton",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q133255",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "búlgaros",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q133473",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "Lago Stuart",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    },
+    {
+      "dimension": "Identidad",
+      "nodoOrigen": "http://www.wikidata.org/entity/Q133559",
+      "propiedad": "http://www.wikidata.org/prop/direct/P17",
+      "nodoDestino": "http://www.wikidata.org/entity/Q16",
+      "nodoOrigenLabel": "",
+      "nodoDestinoLabel": "Canadá",
+      "propiedadLabel": ""
+    }
+  ]
+}
